@@ -73,14 +73,14 @@ The organizations that thrive will be those that consciously evolve their struct
 
 ## Ready to Explore?
 
-**New to these concepts?** Start with [The Value Shift](/transformation/value-shift) to understand the economic transformation underway.
-
-**Organizational leaders?** See [Purpose-Driven Organizations](/approach/purpose-driven-organizations) for our approach to conscious business evolution.
-
-**Technical decision-makers?** Check [Technical Implementation](/methodology/technical-implementation) for our privacy-first, client-controlled approach.
-
-**Ready to begin?** Jump to [Discovery Process](/get-started/discovery-process) to understand how we assess organizational readiness.
-
+**New to these concepts?** Start with "The Value Shift" to understand the economic transformation underway.
+<!-- (/transformation/value-shift) -->
+**Organizational leaders?** See "Purpose-Driven Organizations" for our approach to conscious business evolution.
+<!-- (/approach/purpose-driven-organizations) -->
+**Technical decision-makers?** Check "Technical Implementation" for our privacy-first, client-controlled approach.
+<!-- (/methodology/technical-implementation) -->
+**Ready to begin?** Jump to "Discovery Process" to understand how we assess organizational readiness.
+<!-- (/get-started/discovery-process) -->
 ---
 
 <!-- ### Related Pages
