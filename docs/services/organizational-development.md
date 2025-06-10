@@ -244,8 +244,8 @@ We support organizations in evolving beyond traditional hierarchical models towa
 
 ---
 
-### Related Pages
+<!-- ### Related Pages
 - [Self-Managing Organizations](/docs/transformation/self-managing-organizations) - Understanding the evolution toward distributed authority
 - [Purpose-Driven Organizations](/docs/approach/purpose-driven-organizations) - Our approach to mission-centered organizational development
 - [Inner-Led Development](/docs/approach/inner-led-development) - Individual development that supports organizational evolution
-- [Our Methodology](/docs/methodology/our-methodology) - How we integrate organizational development with technology implementation
+- [Our Methodology](/docs/methodology/our-methodology) - How we integrate organizational development with technology implementation -->

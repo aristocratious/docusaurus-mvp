@@ -83,8 +83,8 @@ The organizations that thrive will be those that consciously evolve their struct
 
 ---
 
-### Related Pages
+<!-- ### Related Pages
 - [The Value Shift](/docs/transformation/value-shift) - Understanding the economic transformation
 - [Human-AI Partnership](/docs/approach/human-ai-partnership) - Our philosophy on technology and human flourishing  
 - [Services Overview](/docs/services/services-overview) - What we offer and how we work
-- [Transformation Stories](/docs/impact/transformation-stories) - Real examples of organizational evolution
+- [Transformation Stories](/docs/impact/transformation-stories) - Real examples of organizational evolution -->

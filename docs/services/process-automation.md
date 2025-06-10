@@ -243,8 +243,8 @@ We design and implement intelligent automation systems that handle routine tasks
 
 ---
 
-### Related Pages
+<!-- ### Related Pages
 - [AI Strategy & Implementation](/docs/services/ai-strategy-implementation) - Broader AI strategy that includes automation
 - [Technical Implementation](/docs/methodology/technical-implementation) - Our approach to building reliable, secure automation
 - [Human-AI Partnership](/docs/approach/human-ai-partnership) - Philosophy behind preserving human agency
-- [Use Cases & Patterns](/docs/impact/use-cases-patterns) - Specific examples of successful automation projects
+- [Use Cases & Patterns](/docs/impact/use-cases-patterns) - Specific examples of successful automation projects -->

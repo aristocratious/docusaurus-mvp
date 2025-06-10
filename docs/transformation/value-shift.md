@@ -132,9 +132,9 @@ This requires rethinking:
 - What kinds of problems you choose to solve
 
 ---
-
+<!-- 
 ### Related Pages
 - [Self-Managing Organizations](/docs/transformation/self-managing-organizations) - Organizational structures for the new economy
 - [Human-AI Partnership](/docs/approach/human-ai-partnership) - How to build complementary relationships with AI
 - [Personal Purpose Alignment](/docs/services/personal-purpose-alignment) - Helping individuals navigate the transition
-- [Use Cases & Patterns](/docs/impact/use-cases-patterns) - Practical examples of value shift in action
+- [Use Cases & Patterns](/docs/impact/use-cases-patterns) - Practical examples of value shift in action -->

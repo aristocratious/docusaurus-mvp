@@ -295,8 +295,8 @@ The future of work is being created by organizations like yours that choose to c
 
 ---
 
-### Related Pages
+<!-- ### Related Pages
 - [Discovery Process](/docs/get-started/discovery-process) - Detailed overview of our assessment and planning approach
 - [FAQ](/docs/get-started/faq) - Answers to common questions about process, investment, and outcomes
 - [Services Overview](/docs/services/services-overview) - Comprehensive view of how our services support transformation
-- [Overview](/docs/overview) - Complete summary of our vision, approach, and impact
+- [Overview](/docs/overview) - Complete summary of our vision, approach, and impact -->
