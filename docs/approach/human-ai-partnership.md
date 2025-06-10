@@ -219,7 +219,7 @@ The goal isn't just more efficient operations—it's creating work environments 
 ---
 
 ### Related Pages
-- [Technical Implementation](/methodology/technical-implementation) - How we build privacy-first, human-controlled AI systems
-- [AI Strategy & Implementation](/services/ai-strategy-implementation) - Our approach to strategic AI deployment
-- [Personal Purpose Alignment](/services/personal-purpose-alignment) - Supporting humans in defining their unique contribution
-- [Use Cases & Patterns](/impact/use-cases-patterns) - Real examples of effective human-AI partnership
+- [Technical Implementation](/docs/methodology/technical-implementation) - How we build privacy-first, human-controlled AI systems
+- [AI Strategy & Implementation](/docs/services/ai-strategy-implementation) - Our approach to strategic AI deployment
+- [Personal Purpose Alignment](/docs/services/personal-purpose-alignment) - Supporting humans in defining their unique contribution
+- [Use Cases & Patterns](/docs/impact/use-cases-patterns) - Real examples of effective human-AI partnership

@@ -207,7 +207,7 @@ The investment in individual development becomes organizational development, cre
 ---
 
 ### Related Pages
-- [Personal Purpose Alignment](/services/personal-purpose-alignment) - Our services for individual development
-- [Individual + Collective Growth](/transformation/individual-collective-growth) - How personal and organizational development connect
-- [Human-AI Partnership](/approach/human-ai-partnership) - Using self-knowledge to guide technology relationships
-- [Our Methodology](/methodology/our-methodology) - How we integrate individual development with organizational change
+- [Personal Purpose Alignment](/docs/services/personal-purpose-alignment) - Our services for individual development
+- [Individual + Collective Growth](/docs/transformation/individual-collective-growth) - How personal and organizational development connect
+- [Human-AI Partnership](/docs/approach/human-ai-partnership) - Using self-knowledge to guide technology relationships
+- [Our Methodology](/docs/methodology/our-methodology) - How we integrate individual development with organizational change

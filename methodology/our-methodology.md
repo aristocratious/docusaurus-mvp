@@ -321,7 +321,7 @@ Technology serves human flourishing rather than replacing human value:
 ---
 
 ### Related Pages
-- [Technical Implementation](/methodology/technical-implementation) - Detailed technical approach and capabilities
-- [Integration Approach](/methodology/integration-approach) - How we connect different systems and processes
-- [Services Overview](/services/services-overview) - What we deliver through our methodology
-- [Discovery Process](/get-started/discovery-process) - How we assess readiness and design transformation approaches
+- [Technical Implementation](/docs/methodology/technical-implementation) - Detailed technical approach and capabilities
+- [Integration Approach](/docs/methodology/integration-approach) - How we connect different systems and processes
+- [Services Overview](/docs/services/services-overview) - What we deliver through our methodology
+- [Discovery Process](/docs/get-started/discovery-process) - How we assess readiness and design transformation approaches

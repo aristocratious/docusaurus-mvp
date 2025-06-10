@@ -243,7 +243,7 @@ Each area reinforces the others, creating integrated transformation rather than 
 ---
 
 ### Related Pages
-- [AI Strategy & Implementation](/services/ai-strategy-implementation) - Detailed view of our technology services
-- [Technical Implementation](/methodology/technical-implementation) - How we build privacy-first, human-controlled systems
-- [Our Methodology](/methodology/our-methodology) - Our process for integrated transformation
-- [Discovery Process](/get-started/discovery-process) - How we assess organizational readiness and needs
+- [AI Strategy & Implementation](/docs/services/ai-strategy-implementation) - Detailed view of our technology services
+- [Technical Implementation](/docs/methodology/technical-implementation) - How we build privacy-first, human-controlled systems
+- [Our Methodology](/docs/methodology/our-methodology) - Our process for integrated transformation
+- [Discovery Process](/docs/get-started/discovery-process) - How we assess organizational readiness and needs

@@ -175,7 +175,7 @@ The question isn't whether to evolve organizational structures, but **how quickl
 ---
 
 ### Related Pages
-- [Purpose-Driven Organizations](/approach/purpose-driven-organizations) - Our approach to supporting organizational evolution
-- [Organizational Development](/services/organizational-development) - Services for structural transformation
-- [Individual + Collective Growth](/transformation/individual-collective-growth) - How personal and organizational development reinforce each other
-- [Transformation Stories](/impact/transformation-stories) - Examples of successful transitions
+- [Purpose-Driven Organizations](/docs/approach/purpose-driven-organizations) - Our approach to supporting organizational evolution
+- [Organizational Development](/docs/services/organizational-development) - Services for structural transformation
+- [Individual + Collective Growth](/docs/transformation/individual-collective-growth) - How personal and organizational development reinforce each other
+- [Transformation Stories](/docs/impact/transformation-stories) - Examples of successful transitions

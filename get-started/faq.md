@@ -178,7 +178,7 @@ We're committed to providing clear, helpful information to support your decision
 ---
 
 ### Related Pages
-- [Discovery Process](/get-started/discovery-process) - Detailed information about our assessment and planning process
-- [Next Steps](/get-started/next-steps) - How to begin your transformation journey
-- [Our Methodology](/methodology/our-methodology) - Our overall approach to integrated transformation
-- [Technical Implementation](/methodology/technical-implementation) - Detailed technical approach and security considerations
+- [Discovery Process](/docs/get-started/discovery-process) - Detailed information about our assessment and planning process
+- [Next Steps](/docs/get-started/next-steps) - How to begin your transformation journey
+- [Our Methodology](/docs/methodology/our-methodology) - Our overall approach to integrated transformation
+- [Technical Implementation](/docs/methodology/technical-implementation) - Detailed technical approach and security considerations

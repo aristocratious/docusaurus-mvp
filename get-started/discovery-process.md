@@ -303,7 +303,7 @@ Our discovery process helps us understand your organization's unique context, re
 ---
 
 ### Related Pages
-- [Our Methodology](/methodology/our-methodology) - The overall approach that emerges from discovery process insights
-- [Services Overview](/services/services-overview) - How discovery insights translate into specific service recommendations
-- [FAQ](/get-started/faq) - Common questions about the discovery process and what to expect
-- [Next Steps](/get-started/next-steps) - How to begin your discovery process and transformation journey
+- [Our Methodology](/docs/methodology/our-methodology) - The overall approach that emerges from discovery process insights
+- [Services Overview](/docs/services/services-overview) - How discovery insights translate into specific service recommendations
+- [FAQ](/docs/get-started/faq) - Common questions about the discovery process and what to expect
+- [Next Steps](/docs/get-started/next-steps) - How to begin your discovery process and transformation journey

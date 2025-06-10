@@ -266,7 +266,7 @@ This section presents concrete outcomes and measurable results from organization
 ---
 
 ### Related Pages
-- [Transformation Stories](/impact/transformation-stories) - Detailed narratives showing how these outcomes were achieved
-- [Use Cases & Patterns](/impact/use-cases-patterns) - Common applications that generate these types of results
-- [Our Methodology](/methodology/our-methodology) - The approach that enables sustainable transformation and measurable outcomes
-- [Discovery Process](/get-started/discovery-process) - How we assess potential for achieving similar results in your organization
+- [Transformation Stories](/docs/impact/transformation-stories) - Detailed narratives showing how these outcomes were achieved
+- [Use Cases & Patterns](/docs/impact/use-cases-patterns) - Common applications that generate these types of results
+- [Our Methodology](/docs/methodology/our-methodology) - The approach that enables sustainable transformation and measurable outcomes
+- [Discovery Process](/docs/get-started/discovery-process) - How we assess potential for achieving similar results in your organization

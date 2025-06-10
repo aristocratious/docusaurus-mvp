@@ -220,7 +220,7 @@ We help purpose-driven organizations develop and implement AI strategies that al
 ---
 
 ### Related Pages
-- [Technical Implementation](/methodology/technical-implementation) - Details about our privacy-first, human-controlled approach
-- [Process Automation](/services/process-automation) - Specific focus on workflow automation and efficiency
-- [Human-AI Partnership](/approach/human-ai-partnership) - Our philosophy on technology and human collaboration
-- [Use Cases & Patterns](/impact/use-cases-patterns) - Real examples of successful AI implementations
+- [Technical Implementation](/docs/methodology/technical-implementation) - Details about our privacy-first, human-controlled approach
+- [Process Automation](/docs/services/process-automation) - Specific focus on workflow automation and efficiency
+- [Human-AI Partnership](/docs/approach/human-ai-partnership) - Our philosophy on technology and human collaboration
+- [Use Cases & Patterns](/docs/impact/use-cases-patterns) - Real examples of successful AI implementations
