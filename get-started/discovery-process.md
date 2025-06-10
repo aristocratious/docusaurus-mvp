@@ -1,0 +1,309 @@
+---
+title: Discovery Process
+description: How we assess organizational readiness and design transformation approaches
+sidebar_position: 1
+---
+
+# Discovery Process: Understanding Your Organization and Designing Your Path Forward
+
+## Summary
+
+Our discovery process helps us understand your organization's unique context, readiness for transformation, and specific opportunities for AI integration and organizational development. This assessment forms the foundation for a customized approach that aligns with your mission, values, and practical constraints.
+
+---
+
+## Discovery Process Overview
+
+### Purpose and Goals
+
+**Understanding your organization**: Mission, values, culture, current challenges, and aspirations
+**Assessing readiness**: Capacity for change, leadership support, and stakeholder engagement
+**Identifying opportunities**: Where AI and organizational development can best serve your mission
+**Designing approach**: Customized strategy that fits your specific context and goals
+
+### Process Structure
+
+**Duration**: 4-6 weeks depending on organizational complexity
+**Format**: Combination of interviews, workshops, assessment tools, and collaborative planning sessions
+**Participants**: Leadership, staff, key stakeholders, and community representatives as appropriate
+**Outcome**: Comprehensive assessment report and customized transformation strategy
+
+## Phase 1: Organizational Foundation Assessment (Weeks 1-2)
+
+### Mission, Values, and Purpose Exploration
+
+**What we explore**:
+- Core organizational mission and how it shows up in daily operations
+- Stated and lived values, including areas of alignment and tension
+- Stakeholder relationships and accountability structures
+- History of mission evolution and adaptation to changing conditions
+
+**How we explore it**:
+- Leadership interviews about organizational purpose and vision
+- Staff and stakeholder focus groups about values and culture
+- Document review including mission statements, strategic plans, and impact reports
+- Observation of meetings and organizational processes where appropriate
+
+**Key questions we address**:
+- How clear and compelling is your organizational purpose?
+- What values actually guide decision-making in practice?
+- How do different stakeholders understand and connect with the mission?
+- Where do you see potential for mission amplification through transformation?
+
+### Current Organizational Structure and Culture
+
+**What we assess**:
+- Decision-making processes and authority distribution
+- Communication patterns and conflict resolution approaches
+- Leadership development and succession planning
+- Organizational learning and adaptation capacity
+
+**Assessment methods**:
+- Organizational structure mapping and analysis
+- Communication pattern analysis through observation and interviews
+- Culture assessment survey and focus groups
+- Leadership capacity evaluation and development needs assessment
+
+**Key insights we develop**:
+- How does current structure support or limit mission achievement?
+- What aspects of culture serve the organization well vs. need development?
+- Where are there opportunities for distributed authority and self-management?
+- How ready is the organization for structural and cultural evolution?
+
+### Stakeholder Relationship and Engagement Analysis
+
+**Who we include**:
+- Staff, leadership, and board members
+- Members, beneficiaries, or service recipients
+- Community partners and collaborating organizations
+- Donors, funders, or other financial stakeholders
+
+**What we evaluate**:
+- Quality and depth of stakeholder relationships
+- Engagement levels and satisfaction with current organizational approaches
+- Stakeholder input processes and influence on organizational decisions
+- Community impact and reputation within broader ecosystem
+
+**Engagement methods**:
+- Stakeholder interviews and focus groups
+- Survey assessment of satisfaction and engagement
+- Community feedback collection and analysis
+- Partnership and collaboration effectiveness evaluation
+
+## Phase 2: Technical and Operational Assessment (Weeks 2-3)
+
+### Current Technology and Process Evaluation
+
+**Technology infrastructure analysis**:
+- Existing software systems and integration capabilities
+- Data management practices and quality assessment
+- Security protocols and privacy protection measures
+- Technical skill levels and support capacity
+
+**Process mapping and optimization opportunities**:
+- Detailed workflow analysis for key organizational functions
+- Identification of repetitive tasks and automation opportunities
+- Quality assurance and error prevention assessment
+- Resource allocation and efficiency evaluation
+
+**Assessment methods**:
+- Technology audit and infrastructure evaluation
+- Process observation and documentation
+- Staff interviews about daily workflows and pain points
+- Data quality assessment and opportunity identification
+
+### AI Readiness and Opportunity Assessment
+
+**Technical readiness factors**:
+- Data availability and quality for AI applications
+- Integration requirements with existing systems
+- Security and privacy considerations for AI implementation
+- Technical expertise and learning capacity within organization
+
+**Mission-aligned AI opportunities**:
+- Administrative automation that frees capacity for mission work
+- Decision support that enhances rather than replaces human judgment
+- Stakeholder engagement tools that strengthen rather than replace relationships
+- Program effectiveness measurement and improvement support
+
+**Evaluation approach**:
+- Technical capability assessment and gap analysis
+- AI opportunity identification aligned with mission and values
+- Privacy and security requirement evaluation
+- Cost-benefit analysis for potential AI implementations
+
+### Change Management and Implementation Capacity
+
+**Organizational change readiness**:
+- History of successful change initiatives and lessons learned
+- Leadership commitment and capacity for supporting transformation
+- Staff and stakeholder openness to new approaches and learning
+- Resource availability for implementation and ongoing development
+
+**Implementation approach design**:
+- Phased implementation planning based on capacity and priorities
+- Training and support needs assessment
+- Risk identification and mitigation planning
+- Success metrics and evaluation framework development
+
+## Phase 3: Individual Development and Purpose Assessment (Weeks 3-4)
+
+### Leadership Development Needs and Opportunities
+
+**Current leadership capacity**:
+- Leadership styles and effectiveness in current organizational context
+- Capacity for distributed authority and collaborative decision-making
+- Vision and communication skills for organizational transformation
+- Personal purpose alignment with organizational mission
+
+**Development priorities**:
+- Skills needed for self-managing organizational contexts
+- Capacity for supporting others through change and growth
+- Integration of personal development with organizational evolution
+- Leadership pipeline development and succession planning
+
+**Assessment methods**:
+- Leadership interviews and 360-degree feedback processes
+- Leadership skill assessment and development planning
+- Personal purpose exploration and organizational alignment evaluation
+- Leadership development resource identification and planning
+
+### Staff and Stakeholder Development Assessment
+
+**Individual purpose and alignment**:
+- Personal values and purpose clarity among staff and key stakeholders
+- Alignment between individual calling and organizational contribution
+- Development interests and growth priorities
+- Career planning and advancement opportunities
+
+**Skill development needs**:
+- Capacity for working effectively with AI tools and systems
+- Collaboration and communication skills for self-managing environments
+- Technical skills needed for organizational evolution
+- Leadership capacity development throughout organization
+
+**Support system requirements**:
+- Individual coaching and development support needs
+- Team development and collaboration enhancement opportunities
+- Learning and development resource requirements
+- Personal-professional integration and work-life balance considerations
+
+### Organizational Development Integration Planning
+
+**Individual-collective alignment**:
+- How individual development can serve organizational evolution
+- Personal purpose integration with collective mission advancement
+- Development planning that serves both individual and organizational goals
+- Creating culture that supports authentic individual expression and contribution
+
+**Implementation approach**:
+- Individual development planning integrated with organizational transformation
+- Team development opportunities and collaborative learning design
+- Leadership development for distributed authority and self-management
+- Culture development that supports both effectiveness and human flourishing
+
+## Phase 4: Strategy Development and Planning (Weeks 4-6)
+
+### Integrated Transformation Strategy Design
+
+**Technology implementation strategy**:
+- Phased AI implementation approach aligned with mission and values
+- Integration planning with existing systems and workflows
+- Training and support strategy for AI adoption and collaboration
+- Quality assurance and optimization planning for AI systems
+
+**Organizational development strategy**:
+- Structure evolution toward self-managing, purpose-driven model
+- Culture development planning that supports both effectiveness and values
+- Leadership development strategy for distributed authority contexts
+- Stakeholder engagement enhancement and democratic participation support
+
+**Individual development integration**:
+- Personal development planning that serves organizational evolution
+- Purpose alignment support and career development planning
+- Leadership development for emergent organizational contexts
+- Learning and development resource allocation and planning
+
+### Implementation Roadmap and Timeline
+
+**Phase-by-phase planning**:
+- Priority identification and sequencing based on readiness and impact potential
+- Resource requirement planning and budget development
+- Timeline development with realistic milestones and adaptation points
+- Risk assessment and mitigation planning for each implementation phase
+
+**Success metrics and evaluation framework**:
+- Quantitative metrics for operational effectiveness and efficiency
+- Qualitative indicators for cultural health and mission alignment
+- Individual development outcomes and organizational capability building
+- Long-term impact measurement and sustainability assessment
+
+### Resource Planning and Investment Strategy
+
+**Financial investment planning**:
+- Technology implementation costs and ongoing maintenance requirements
+- Organizational development support and training resource needs
+- Individual development investment and coaching support budgets
+- Return on investment projections and financial sustainability planning
+
+**Human resource development**:
+- Internal capacity building for managing and optimizing AI systems
+- Leadership development for self-managing organizational contexts
+- Staff development for AI collaboration and organizational evolution
+- External support and partnership requirements for successful transformation
+
+## Discovery Process Outcomes
+
+### Comprehensive Assessment Report
+
+**Organizational readiness evaluation**: Current state analysis and transformation capacity assessment
+**Opportunity identification**: Specific areas where AI and organizational development can best serve mission
+**Strategy recommendations**: Customized approach based on organizational context and goals
+**Implementation planning**: Detailed roadmap with timeline, resources, and success metrics
+
+### Customized Transformation Strategy
+
+**Integrated approach design**: Technology, organizational, and individual development components working together
+**Phased implementation plan**: Realistic timeline with achievable milestones and adaptation opportunities
+**Resource allocation strategy**: Financial and human resource planning for sustainable transformation
+**Success measurement framework**: Metrics and evaluation approaches that include both effectiveness and values alignment
+
+### Organizational Alignment and Commitment
+
+**Stakeholder buy-in**: Clear understanding and support for transformation approach among key stakeholders
+**Leadership commitment**: Strong leadership support and capacity for guiding transformation process
+**Cultural readiness**: Organizational culture prepared for change while maintaining core values and relationships
+**Implementation capacity**: Sufficient resources and expertise for successful transformation execution
+
+---
+
+## What Happens After Discovery
+
+### Decision and Commitment Process
+
+**Strategy review and refinement**: Opportunity to adjust recommended approach based on organizational feedback
+**Implementation decision**: Clear choice about whether and how to proceed with transformation
+**Resource allocation**: Final planning for financial and human resource investment
+**Partnership agreement**: Formal agreement about roles, responsibilities, and expectations for collaboration
+
+### Implementation Launch Preparation
+
+**Team preparation**: Training and preparation for key organizational members involved in transformation
+**System setup**: Initial technical infrastructure and process establishment
+**Communication planning**: Stakeholder communication strategy for transformation launch
+**Success monitoring**: Implementation of measurement and feedback systems for ongoing evaluation
+
+### Ongoing Support and Evolution
+
+**Regular assessment and optimization**: Continuous evaluation and refinement of transformation approach
+**Adaptive strategy development**: Adjustment of approach based on results and changing organizational needs
+**Capacity building**: Ongoing development of internal capacity for managing and optimizing transformed systems
+**Community connection**: Integration with broader network of organizations pursuing similar transformation
+
+---
+
+### Related Pages
+- [Our Methodology](/methodology/our-methodology) - The overall approach that emerges from discovery process insights
+- [Services Overview](/services/services-overview) - How discovery insights translate into specific service recommendations
+- [FAQ](/get-started/faq) - Common questions about the discovery process and what to expect
+- [Next Steps](/get-started/next-steps) - How to begin your discovery process and transformation journey
