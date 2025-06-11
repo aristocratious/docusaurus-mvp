@@ -41,6 +41,59 @@ const config = {
     locales: ['en'],
   },
 
+  plugins: [
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        sidebarPath: require.resolve('./sidebars.js'),
+        // Please change this to your repo.
+        // Remove this to remove the "edit this page" links.
+        editUrl:
+          'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-pages',
+      {
+        // ... existing pages plugin config ...
+      },
+    ],
+    [
+      '@docusaurus/plugin-sitemap',
+      {
+        changefreq: 'hourly',
+        priority: ({defaultPriority, doc, type}) => {
+          // Main landing pages and overview pages
+          if (doc === 'intro' || doc === 'services/services-overview') {
+            return 1.0;
+          }
+          // Main section pages
+          if (doc.startsWith('transformation/') || 
+              doc.startsWith('approach/') || 
+              doc.startsWith('methodology/')) {
+            return 0.9;
+          }
+          // Service detail pages
+          if (doc.startsWith('services/')) {
+            return 0.8;
+          }
+          // Impact and case study pages
+          if (doc.startsWith('impact/')) {
+            return 0.7;
+          }
+          // Get started and support pages
+          if (doc.startsWith('get-started/')) {
+            return 0.6;
+          }
+          // Default priority for other pages
+          return defaultPriority;
+        },
+        ignorePatterns: ['/tags/**'],
+        filename: 'sitemap.xml',
+      },
+    ],
+  ],
+
   presets: [
     [
       'classic',
