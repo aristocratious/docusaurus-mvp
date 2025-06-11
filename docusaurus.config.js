@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'AI & Purpose',
+  tagline: 'Values-first technology for purpose-driven organizations',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -27,8 +27,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'your-org', // Usually your GitHub org/user name.
+  projectName: 'your-repo', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -42,12 +42,6 @@ const config = {
   },
 
   plugins: [
-    [
-      '@docusaurus/plugin-content-pages',
-      {
-        // ... existing pages plugin config ...
-      },
-    ],
     [
       '@docusaurus/plugin-sitemap',
       {
@@ -118,7 +112,7 @@ const config = {
             items: [
               {
                 label: 'Overview',
-                to: '/docs/intro',
+                to: '/docs/overview',
               },
             ],
           },
@@ -135,8 +129,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'GitHub',
-                href: 'https://github.com/your-org/your-repo',
+                label: 'Blog',
+                to: '/blog',
               },
             ],
           },
