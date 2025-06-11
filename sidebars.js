@@ -16,10 +16,23 @@
  */
 const sidebars = {
   docs: [
-    'intro',
     {
       type: 'category',
-      label: 'Approach',
+      label: 'Intro',
+      items: ['intro'],
+    },
+    {
+      type: 'category',
+      label: 'The Transformation',
+      items: [
+        'transformation/value-shift',
+        'transformation/self-managing-organizations',
+        'transformation/individual-collective-growth',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Our Approach',
       items: [
         'approach/human-ai-partnership',
         'approach/purpose-driven-organizations',
@@ -28,33 +41,40 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Transformation',
-      items: [
-        'transformation/value-shift',
-        'transformation/individual-collective-growth',
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Services',
+      label: 'What We Do',
       items: [
         'services/services-overview',
+        'services/ai-strategy-implementation',
+        'services/process-automation',
+        'services/organizational-development',
+        'services/personal-purpose-alignment',
       ],
     },
     {
       type: 'category',
-      label: 'Methodology',
+      label: 'How We Work',
       items: [
-        'methodology/our-methodology',
         'methodology/technical-implementation',
+        'methodology/our-methodology',
+        'methodology/integration-approach',
       ],
     },
     {
       type: 'category',
-      label: 'Impact',
+      label: 'Real-World Impact',
       items: [
         'impact/transformation-stories',
+        'impact/use-cases-patterns',
         'impact/outcomes-results',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Get Started',
+      items: [
+        'get-started/discovery-process',
+        'get-started/faq',
+        'get-started/next-steps',
       ],
     },
   ],
