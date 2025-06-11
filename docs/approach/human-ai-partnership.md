@@ -189,7 +189,7 @@ We believe AI should augment human capabilities rather than replace human judgme
 - Diverse perspectives in AI system design and evaluation
 - Transparency about AI limitations and potential biases
 
-### Human Dignity
+### Human Dignity & Ethical Oversight
 
 **Principle**: Technology should enhance rather than diminish human worth and agency
 
@@ -197,6 +197,7 @@ We believe AI should augment human capabilities rather than replace human judgme
 - AI systems designed to support human decision-making, not replace it
 - Preservation of meaningful work and development opportunities
 - Recognition and reward for uniquely human contributions
+- Establishment of AI ethics circles or councils: Creating dedicated groups within the organization to review, guide, and provide ongoing oversight for AI implementation, ensuring it remains aligned with core values.
 
 ---
 

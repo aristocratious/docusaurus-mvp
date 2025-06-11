@@ -57,6 +57,16 @@ As AI generates more synthetic content and automated interactions, **verifiable 
 - Demonstrable track record of wise judgment
 - Real relationships built through shared challenge and growth
 
+### What Skills to Cultivate
+
+To thrive in this new landscape, individuals and organizations must focus on developing capabilities that AI cannot easily replicate:
+
+- **Creativity and Storytelling**: Crafting compelling narratives that inspire action and create meaning.
+- **Critical Thinking and Ethical Discernment**: Evaluating information, identifying biases, and making values-aligned judgments.
+- **Empathy and Cultural Intelligence**: Understanding and responding to the nuances of human emotion and diverse cultural contexts.
+- **Adaptability and Systems Design**: Flexibly responding to change and designing resilient human-AI systems.
+- **Facilitation, Coaching, and Regenerative Leadership**: Guiding collaborative processes, developing human potential, and leading in complex environments.
+
 ## Two Paths Forward
 
 ### Path 1: The Productivity Trap

@@ -20,6 +20,8 @@ We help purpose-driven organizations implement AI that enhances human capabiliti
 
 AI is fundamentally changing how work gets done. As artificial intelligence handles more routine cognitive tasks, **economic value is shifting from task execution to uniquely human capabilities**: deep thinking, creative problem-solving, ethical judgment, and authentic relationship building.
 
+This creates both unprecedented opportunity and risk. For purpose-driven organizations, this moment can be particularly complex, often surfacing challenges like a fear of dehumanization, a lack of technical fluency in leadership, or concerns about misalignment with core values.
+
 This creates both unprecedented opportunity and risk. Organizations can either:
 - **Race to the bottom**: Use AI to do the same work faster, creating temporary gains that competitors quickly match
 - **Transform fundamentally**: Reimagine how they create value by amplifying human creativity, purpose, and collaboration

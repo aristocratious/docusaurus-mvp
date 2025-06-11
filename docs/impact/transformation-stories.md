@@ -73,6 +73,11 @@ A regional food cooperative with 1,200 members was struggling with administrativ
 - Strengthened connection between daily operations and cooperative values
 - Enhanced member sense of ownership and community
 
+### Key Takeaways
+- **Automate Toil, Not Relationships**: Automating back-end administrative tasks freed up staff time for high-touch, mission-focused work like education and community building.
+- **Technology Can Deepen Democracy**: AI tools, when designed with intention, can lower the barrier to participation and increase member engagement in governance.
+- **Individual Growth Fuels Collective Impact**: Supporting staff in aligning their personal purpose with their roles unlocked new areas of value and innovation for the cooperative.
+
 ---
 
 ## Story 2: Educational Nonprofit - Scaling Impact While Preserving Relationship-Centered Approach
@@ -135,6 +140,11 @@ An educational nonprofit serving students from low-income communities wanted to 
 - Created model replicated by 5 other nonprofits in the region
 - Developed partnerships with local schools and community organizations
 - Influenced local education policy through demonstrated outcomes
+
+### Key Takeaways
+- **AI as a Scaling Partner**: AI was used to augment the high-touch model, allowing it to scale without sacrificing the core value of personal relationships.
+- **Data for Impact, Not Just Reporting**: Shifting from compliance-focused reporting to AI-driven impact measurement provided deeper insights and improved program design.
+- **Structure Follows Strategy**: The move to a team-based, self-managing structure was a necessary evolution to support the scaled and more dynamic program model.
 
 ---
 
@@ -199,6 +209,11 @@ A worker-owned technology cooperative developing privacy-focused software tools 
 - Contributed to ethical AI development standards and practices
 - Demonstrated viability of democratic, purpose-driven technology work
 
+### Key Takeaways
+- **AI for Information Equity**: AI was used to level the playing field, making complex technical information accessible to all worker-owners, thereby strengthening their democratic process.
+- **Ethical AI in Practice**: The cooperative didn't just talk about ethical AI; they built it into their own governance and operational models, using it to vet projects and align with their values.
+- **Augmentation Over Automation**: The focus was on creating AI "co-pilots" for developers and project managers, which enhanced individual capabilities and freed up time for more creative, strategic work.
+
 ---
 
 ## Story 4: Healthcare Nonprofit - Integrating AI with Community-Centered Care
@@ -261,6 +276,11 @@ A community health nonprofit serving rural and underserved populations wanted to
 - Increased staff capacity for relationship-building and complex problem-solving
 - Enhanced organizational ability to respond to emerging community health needs
 - Strengthened financial sustainability through improved outcomes and efficiency
+
+### Key Takeaways
+- **Freeing Up the Healers**: The most significant impact came from using AI to dramatically reduce the administrative burden on healthcare providers, allowing them to focus on patient relationships and complex care.
+- **Community-Led Technology**: AI was not just implemented *for* the community, but *with* them, using advisory tools to ensure solutions were culturally responsive and addressed real needs.
+- **Holistic Health Model**: AI helped to connect the dots between clinical care and social determinants of health, enabling a more integrated and effective model of community wellness.
 
 ---
 

@@ -66,6 +66,13 @@ We specialize in working with organizations that prioritize purpose alongside pr
 
 **Start with Purpose**: Every AI implementation begins by clarifying how it serves the organization's mission
 
+**Guiding Principles for AI Implementation:**
+- **Human dignity first**: All technology must respect and enhance the worth of individuals.
+- **Transparency and consent**: Operations of AI systems must be understandable, and their use requires clear consent.
+- **Collective learning over optimization**: The goal is to improve collective wisdom, not just optimize for a single metric.
+- **Value-alignment checks before deployment**: Rigorous review to ensure technology aligns with organizational values.
+- **Inclusivity in design and feedback loops**: Diverse stakeholder voices are included throughout the technology lifecycle.
+
 **Stakeholder Impact Assessment**: Consider effects on all stakeholders, not just operational efficiency
 
 **Value Alignment Auditing**: Regular checks to ensure technology choices remain aligned with stated values

@@ -4,6 +4,15 @@ description: Measurable results and impact metrics from AI implementation and or
 sidebar_position: 3
 ---
 
+## How We Measure Success: The Dual Scorecard
+
+To capture the full value of our integrated approach, we move beyond traditional ROI. We use a **dual scorecard** that tracks both operational efficiency and values-aligned mission advancement. This ensures that improvements in one area do not come at the expense of the other.
+
+- **Operational KPIs**: Metrics focused on efficiency, speed, cost savings, and resource utilization. These measure how well the organization is *doing things right*.
+- **Mission KPIs**: Metrics focused on stakeholder trust, empowerment, impact depth, and values alignment. These measure how well the organization is *doing the right things*.
+
+This balanced perspective provides a holistic view of a successful transformation.
+
 # Outcomes & Results: Measurable Impact of AI-Augmented Organizational Evolution
 
 ## Summary
@@ -12,7 +21,7 @@ This section presents concrete outcomes and measurable results from organization
 
 ---
 
-## Operational Efficiency Improvements
+## Operational Efficiency Improvements (Operational KPIs)
 
 ### Administrative Time Savings
 
@@ -48,7 +57,7 @@ This section presents concrete outcomes and measurable results from organization
 - **30-50% reduction** in resource conflicts and scheduling issues
 - **15-25% cost savings** through optimized allocation and reduced waste
 
-## Mission and Impact Amplification
+## Mission and Impact Amplification (Mission KPIs)
 
 ### Service Delivery Enhancement
 
@@ -84,7 +93,7 @@ This section presents concrete outcomes and measurable results from organization
 - **40-60% improvement** in organizational learning and knowledge capture
 - **25-40% increase** in successful pilot programs and experiments
 
-## Organizational Health and Culture Improvements
+## Organizational Health and Culture Improvements (Mission KPIs)
 
 ### Employee and Member Satisfaction
 
@@ -122,7 +131,7 @@ This section presents concrete outcomes and measurable results from organization
 - **50-70% increase** in knowledge sharing and organizational learning
 - **25-40% improvement** in cross-team collaboration and coordination
 
-## Financial and Sustainability Outcomes
+## Financial and Sustainability Outcomes (Operational KPIs)
 
 ### Revenue and Financial Health
 
@@ -157,7 +166,7 @@ This section presents concrete outcomes and measurable results from organization
 - **Medium cooperative** ($100K investment): $300K+ annual value through efficiency, growth, and member satisfaction
 - **Large social enterprise** ($200K investment): $600K+ annual value through operational optimization and market expansion
 
-## Community and Network Impact
+## Community and Network Impact (Mission KPIs)
 
 ### Local Community Benefit
 

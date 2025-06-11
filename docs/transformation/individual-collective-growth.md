@@ -162,7 +162,7 @@ True development extends beyond individual fulfillment and organizational succes
 
 ### Purpose That Transcends
 
-The most sustainable motivation for development comes from **purpose that extends beyond yourself**:
+The most sustainable motivation for development comes from purpose that extends beyond yourself. This is the essence of regenerative leadership: stewarding systems in a way that allows for continuous renewal and flourishing. It is about:
 - Contributing to human flourishing
 - Serving life and ecological health  
 - Creating conditions for future generations to thrive

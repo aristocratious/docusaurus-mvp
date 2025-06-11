@@ -16,7 +16,7 @@ We provide integrated services that combine AI strategy and implementation with 
 
 ### Technology + Human Development
 
-**Why both matter**: AI implementation without human development often fails to realize its potential, while organizational change without technology support can't keep pace with current realities.
+**Why both matter**: True transformation requires more than just new tools or new org charts. AI implementation without human development often fails to realize its potential, creating efficient but soulless systems. Conversely, organizational change without technology support can't keep pace with current realities and may lack the tools to be effective.
 
 **Our solution**: Combine AI strategy and implementation with the organizational development and individual growth work that makes technology transformation sustainable.
 

@@ -53,7 +53,11 @@ We build AI systems that operate within your environment and under your control.
 
 ### AI Model Selection Strategy
 
-**Open-source preference**: Using open models when they meet performance requirements
+Open-source preference: Whenever possible, we advocate for using open-source models and tools. This approach is particularly beneficial for purpose-driven organizations as it promotes:
+Transparency: The underlying code can be inspected, ensuring there are no hidden functionalities that conflict with your values.
+Autonomy & Control: It reduces dependence on large tech corporations, preventing vendor lock-in and giving you long-term control over your technology stack.
+Community & Collaboration: Open-source tools are often supported by a global community, fostering collaboration and shared learning that aligns with cooperative principles.
+Customization: They offer greater flexibility to be tailored to your unique mission and needs.
 **Privacy-focused providers**: Selecting AI services with strong privacy commitments
 **Local model deployment**: Running AI models on your infrastructure when feasible
 **Model diversity**: Using different AI systems for different tasks to avoid single points of failure

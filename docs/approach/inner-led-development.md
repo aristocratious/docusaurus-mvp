@@ -168,10 +168,12 @@ Inner-led development isn't just about individual fulfillment—it recognizes th
 
 ### AI-Assisted Development Tools
 
-**Pattern recognition**: AI analysis of behavior and decision patterns to support self-understanding
-**Personalized learning**: AI-customized development paths based on individual needs and goals
-**Reflection support**: AI-powered tools for journaling, goal-setting, and progress tracking
-**Integration assistance**: Help connecting insights from different areas of development
+Technology can be a powerful partner in the work of inner-led development. We leverage AI to create supportive, personalized growth experiences.
+
+- **Pattern Recognition**: AI analysis of journaling, feedback, and decision patterns to help individuals see their own habits and growth trajectories more clearly.
+- **Personalized Learning**: AI-customized development paths that suggest resources, exercises, and reflections based on individual goals, learning styles, and purpose.
+- **Reflection Support**: AI-powered tools that ask insightful questions, track progress on development goals, and help synthesize insights over time.
+- **Integration Assistance**: Helping individuals connect the dots between insights from different areas of their life and work, fostering a more holistic self-understanding.
 
 ## Common Misconceptions and Clarifications
 

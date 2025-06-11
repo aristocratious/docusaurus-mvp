@@ -56,6 +56,8 @@ We support:
 
 ## Five-Phase Methodology
 
+Our process is structured in five phases, with an explicit Ethical Checkpoint at the end of each to ensure our work remains aligned with your core purpose and values.
+
 ### Phase 1: Discovery and Assessment (4-6 weeks)
 
 **Organizational Assessment**
@@ -81,6 +83,9 @@ We support:
 - Integration of individual purpose with organizational mission
 - Technology strategy aligned with values and goals
 - Success metrics that include both performance and values alignment
+
+Checkpoint 1: Foundational Alignment Review
+Does the proposed direction honor the organization's core purpose? Have all key stakeholder perspectives been considered? Are the ethical boundaries clear?
 
 ### Phase 2: Strategy and Design (4-6 weeks)
 
@@ -108,6 +113,9 @@ We support:
 - Skill development programs for human-AI collaboration
 - Purpose alignment support integrated with role development
 
+Checkpoint 2: Design and Values Check
+Does the detailed design reflect the organization's values? How will we mitigate potential biases or unintended consequences? Is the plan for human oversight robust?
+
 ### Phase 3: Foundation Building (8-12 weeks)
 
 **Technical Foundation**
@@ -133,6 +141,9 @@ We support:
 - Conflict resolution and difficult conversation skill development
 - Team building around shared purpose and collaborative intelligence
 - Measurement system implementation for cultural and technical progress
+
+Checkpoint 3: Pilot Impact Assessment
+Are the initial implementations having the intended positive impact on people and mission? What have we learned from the pilot phase? How should we adjust before scaling?
 
 ### Phase 4: Full Implementation and Integration (12-16 weeks)
 
@@ -160,6 +171,9 @@ We support:
 - Values-aligned performance measurement and feedback systems
 - Continuous improvement process implementation for all system levels
 
+Checkpoint 4: Scaled Impact and Alignment Audit
+As we scale, is the transformation maintaining its integrity and alignment with values? Are all stakeholders being adequately supported? What new ethical considerations have emerged?
+
 ### Phase 5: Optimization and Evolution (Ongoing)
 
 **Continuous Improvement**
@@ -179,6 +193,9 @@ We support:
 - Contribution of learning and innovations to broader movement
 - Network development and collaboration enhancement
 - Regenerative impact amplification through shared knowledge and resources
+
+Checkpoint 5: Long-Term Stewardship Review
+How are we ensuring the long-term health and ethical stewardship of these integrated systems? How is our learning contributing back to our community and the broader field?
 
 ## Integration Strategies
 
