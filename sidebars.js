@@ -16,7 +16,7 @@
  */
 const sidebars = {
   docs: [
-    'overview',
+    'intro',
     {
       type: 'category',
       label: 'Approach',
