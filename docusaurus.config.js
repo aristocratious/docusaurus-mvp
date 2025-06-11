@@ -62,32 +62,7 @@ const config = {
       '@docusaurus/plugin-sitemap',
       {
         changefreq: 'hourly',
-        priority: ({defaultPriority, doc, type}) => {
-          // Main landing pages and overview pages
-          if (doc === 'intro' || doc === 'services/services-overview') {
-            return 1.0;
-          }
-          // Main section pages
-          if (doc.startsWith('transformation/') || 
-              doc.startsWith('approach/') || 
-              doc.startsWith('methodology/')) {
-            return 0.9;
-          }
-          // Service detail pages
-          if (doc.startsWith('services/')) {
-            return 0.8;
-          }
-          // Impact and case study pages
-          if (doc.startsWith('impact/')) {
-            return 0.7;
-          }
-          // Get started and support pages
-          if (doc.startsWith('get-started/')) {
-            return 0.6;
-          }
-          // Default priority for other pages
-          return defaultPriority;
-        },
+        priority: 0.7,
         ignorePatterns: ['/tags/**'],
         filename: 'sitemap.xml',
       },
