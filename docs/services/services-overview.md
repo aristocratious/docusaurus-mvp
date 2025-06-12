@@ -128,17 +128,17 @@ We offer a unique combination of services that address technology, organizationa
 
 ## Investment and Engagement Models
 
-### Comprehensive Transformation
-**Timeline:** 12-18 months | **Investment:** $75-200K+ | **Best for:** Organizations ready for integrated change across all areas
+### Integrated Transformation
+**Timeline:** 12-18 months | **Best for:** Organizations ready for integrated change across all areas
 
 ### Focused Service Implementation
-**Timeline:** 3-6 months | **Investment:** $25-75K | **Best for:** Organizations with specific goals in one or two service areas
+**Timeline:** 3-6 months | **Best for:** Organizations with specific goals in one or two service areas
 
 ### Strategic Advisory Partnership
-**Timeline:** Ongoing | **Investment:** $5-15K monthly | **Best for:** Organizations wanting strategic guidance with internal implementation
+**Timeline:** Ongoing | **Best for:** Organizations wanting strategic guidance with internal implementation
 
 ### Pilot and Proof-of-Concept
-**Timeline:** 6-10 weeks | **Investment:** $15-35K | **Best for:** Organizations wanting to test value before larger commitment
+**Timeline:** 6-10 weeks | **Best for:** Organizations wanting to test value before larger commitment
 
 ---
 

@@ -10,7 +10,7 @@ sidebar_position: 2
 
 ### What makes your approach different from other AI consulting firms?
 
-We integrate AI implementation with organizational development and individual purpose alignment. Most AI consultants focus only on technology efficiency, while we ensure AI serves your mission and supports human flourishing. We work specifically with purpose-driven organizations and understand their unique needs and values.
+We integrate AI implementation with organizational development and individual purpose alignment. Most AI consultants focus only on technology efficiency, while we aim to ensure AI serves your mission and supports human flourishing. We work specifically with purpose-driven organizations and understand their unique needs and values.
 
 ### Do you work with for-profit companies, or only nonprofits and cooperatives?
 

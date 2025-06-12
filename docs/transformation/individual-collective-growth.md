@@ -105,7 +105,7 @@ Traditional professional development focused on **external capabilities**. The A
 
 **Create psychological safety**: Environments where people can be vulnerable and authentic
 **Provide development resources**: Access to coaching, reflection time, and learning opportunities
-**Align systems with values**: Ensure policies and practices support the growth you're encouraging  
+**Align systems with values**: Design policies and practices to support the growth you're encouraging  
 **Celebrate whole people**: Recognize and reward authentic contribution, not just performance
 **Make space for emergence**: Allow for unplanned developments and creative solutions
 

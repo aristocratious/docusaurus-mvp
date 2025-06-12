@@ -27,7 +27,7 @@ We design and implement intelligent automation systems that handle routine tasks
 
 ### Human-Centric Design
 
-**Always maintain human oversight**: People can intervene, modify, or override automated processes
+**Maintain human oversight**: People can intervene, modify, or override automated processes
 **Preserve agency**: Automation serves human goals rather than replacing human decision-making
 **Enhance rather than eliminate**: Free people for higher-value work
 **Values alignment**: Automated processes reflect organizational values and standards
@@ -175,7 +175,7 @@ We design and implement intelligent automation systems that handle routine tasks
 
 ### Human Control Mechanisms
 
-**Override capability**: Humans can always intervene and modify automated processes
+**Override capability**: Humans can intervene and modify automated processes
 **Customization options**: Easy adjustment of automation parameters and rules
 **Feedback integration**: Systems that learn from human corrections and preferences
 **Regular review**: Scheduled evaluation of automation performance

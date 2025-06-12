@@ -26,7 +26,7 @@ Our discovery process helps us understand your organization's unique context, re
 - **Duration**: 4-6 weeks depending on organizational complexity
 - **Format**: Combination of interviews, workshops, assessment tools, and collaborative planning sessions
 - **Participants**: Leadership, staff, key stakeholders, and community representatives as appropriate
-- **Outcome**: Comprehensive assessment report and customized transformation strategy
+- **Outcome**: Assessment report and customized transformation strategy
 
 ## Phase 1: Organizational Foundation Assessment (Weeks 1-2)
 
@@ -200,7 +200,7 @@ Our discovery process helps us understand your organization's unique context, re
 
 ## Discovery Process Outcomes
 
-### Comprehensive Assessment Report
+### Assessment Report
 
 - **Organizational readiness evaluation**: Current state analysis and transformation capacity assessment
 - **Opportunity identification**: Specific areas where AI and organizational development can best serve mission

@@ -62,12 +62,12 @@ We specialize in working with organizations that prioritize purpose alongside pr
 - **Human dignity first**: All technology must respect and enhance the worth of individuals.
 - **Transparency and consent**: Operations of AI systems must be understandable, and their use requires clear consent.
 - **Collective learning over optimization**: The goal is to improve collective wisdom, not just optimize for a single metric.
-- **Value-alignment checks before deployment**: Rigorous review to ensure technology aligns with organizational values.
+- **Value-alignment checks before deployment**: Review to help ensure technology aligns with organizational values.
 - **Inclusivity in design and feedback loops**: Diverse stakeholder voices are included throughout the technology lifecycle.
 
 **Stakeholder Impact Assessment**: Consider effects on all stakeholders, not just operational efficiency
 
-**Value Alignment Auditing**: Regular checks to ensure technology choices remain aligned with stated values
+**Value Alignment Auditing**: Regular checks to support alignment between technology choices and stated values
 
 **Mission Amplification**: Focus on AI applications that multiply the organization's positive impact
 
@@ -75,7 +75,7 @@ We specialize in working with organizations that prioritize purpose alongside pr
 
 **Structure and Technology Together**: Evolve organizational systems alongside AI implementation
 
-**Culture-Technology Fit**: Ensure AI tools match and reinforce desired cultural qualities
+**Culture-Technology Fit**: Align AI tools with desired cultural qualities
 
 **Human Development Priority**: Maintain investment in people even as technology capabilities expand
 

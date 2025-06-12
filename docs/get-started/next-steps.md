@@ -46,7 +46,7 @@ Ready to explore how AI implementation and organizational development can serve 
 
 Based on the discovery consultation, we'll recommend one of several engagement approaches:
 
-- **Full Discovery Process**: Comprehensive 4-6 week assessment and strategy development
+- **Full Discovery Process**: 4-6 week assessment and strategy development
 - **Focused Assessment**: 2-3 week evaluation of specific area or opportunity
 - **Pilot Project**: 6-8 week proof-of-concept in targeted area
 - **Strategic Consultation**: Ongoing advisory relationship for planning and guidance
@@ -88,16 +88,16 @@ Based on the discovery consultation, we'll recommend one of several engagement a
 
 ## Engagement Pathway Options
 
-### Option 1: Comprehensive Transformation Partnership
+### Option 1: Full Transformation Partnership
 
 **Best for**: Organizations ready for integrated AI implementation and organizational development
 **Timeline**: 6-18 months depending on scope
 **Outcome**: Full transformation with AI systems, organizational evolution, and individual development
 
 **Process overview**:
-1. **Discovery and Strategy** (4-6 weeks): Comprehensive assessment and planning
+1. **Discovery and Strategy** (4-6 weeks): Assessment and planning
 2. **Foundation Building** (8-12 weeks): Core AI implementation and organizational development
-3. **Full Integration** (12-16 weeks): Complete system deployment and cultural evolution
+3. **Full Integration** (12-16 weeks): System deployment and cultural evolution
 4. **Optimization and Evolution** (Ongoing): Continuous improvement and adaptation
 
 ### Option 2: Focused Implementation Project
@@ -116,7 +116,7 @@ Based on the discovery consultation, we'll recommend one of several engagement a
 
 **Best for**: Organizations with internal capacity wanting ongoing strategic guidance
 **Timeline**: 6-12 months with renewable terms
-**Outcome**: Strategic support for internally-led transformation with expert guidance
+**Outcome**: Strategic support for internally-led transformation with guidance
 
 **Advisory support includes**:
 - Monthly or quarterly strategic planning sessions

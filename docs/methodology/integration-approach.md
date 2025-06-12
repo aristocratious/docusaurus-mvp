@@ -8,7 +8,7 @@ sidebar_position: 3
 
 ## Summary
 
-Our integration approach ensures AI systems work with your existing tools, processes, and organizational culture. We build bridges between new capabilities and established workflows while supporting evolution toward more effective and purpose-driven operations.
+Our integration approach focuses on AI systems that work with your existing tools, processes, and organizational culture. We build bridges between new capabilities and established workflows while supporting evolution toward more effective and purpose-driven operations.
 
 ---
 

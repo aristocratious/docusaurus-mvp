@@ -8,7 +8,7 @@ sidebar_position: 1
 
 ## Summary
 
-We build AI systems that operate within your environment and under your control. Our approach prioritizes data sovereignty, explainable AI, and human oversight—ensuring technology serves your organization's values while maintaining the highest standards of privacy and security.
+We build AI systems that operate within your environment and under your control. Our approach prioritizes data sovereignty, explainable AI, and human oversight—aiming to ensure technology serves your organization's values while maintaining high standards of privacy and security.
 
 ---
 
@@ -23,7 +23,7 @@ We build AI systems that operate within your environment and under your control.
 
 ### Human-Controlled AI
 
-- **Override capability**: Humans can always intervene, modify, or stop AI processes
+- **Override capability**: Humans can intervene, modify, or stop AI processes
 - **Explainable decisions**: AI systems provide clear reasoning for their recommendations and actions
 - **Value alignment**: AI behavior aligns with your organizational mission and ethical standards
 - **Agency preservation**: Technology enhances rather than replaces human decision-making capacity
@@ -149,7 +149,7 @@ We build AI systems that operate within your environment and under your control.
 
 - **Custom development**: Building AI solutions according to specifications
 - **Security implementation**: Implementing privacy and security measures
-- **Integration testing**: Ensuring seamless operation with existing systems
+- **Integration testing**: Testing operation with existing systems
 - **User acceptance testing**: Validating that systems meet functional and usability requirements
 
 ### Phase 3: Deployment and Training (2-4 weeks)
@@ -157,7 +157,7 @@ We build AI systems that operate within your environment and under your control.
 - **Staged rollout**: Gradual deployment with monitoring and adjustment
 - **Team training**: Comprehensive training on using and managing AI systems
 - **Documentation**: Complete technical and user documentation
-- **Handoff and support**: Ensuring your team can maintain and evolve the systems
+- **Handoff and support**: Supporting your team to maintain and evolve the systems
 
 ### Phase 4: Optimization and Evolution (Ongoing)
 

@@ -32,10 +32,10 @@ We believe AI should augment human capabilities rather than replace human judgme
 **Central principle**: Technology should expand human choice and capability, not diminish it.
 
 **Implementation approach**:
-- Always maintain human oversight and control
+- Maintain human oversight and control
 - Design systems that explain their reasoning
 - Preserve the ability to override or modify AI recommendations
-- Ensure humans remain the final decision-makers on values and priorities
+- Support humans as the final decision-makers on values and priorities
 
 ## Why Human-AI Partnership Matters
 
