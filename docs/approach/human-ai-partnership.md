@@ -149,10 +149,10 @@ We believe AI should augment human capabilities rather than replace human judgme
 ---
 
 ### Related Pages
-- [Technical Implementation](/docs/methodology/technical-implementation) - How we build privacy-first, human-controlled AI systems
-- [AI Strategy & Implementation](/docs/services/ai-strategy-implementation) - Our approach to strategic AI deployment
-- [Personal Purpose Alignment](/docs/services/personal-purpose-alignment) - Supporting humans in defining their unique contribution
-- [Use Cases & Patterns](/docs/impact/use-cases-patterns) - Real examples of effective human-AI partnership
+- [Purpose-Driven Organizations](/docs/approach/purpose-driven-organizations) - How values-first organizations approach AI
+- [AI Coordination Layer](/docs/approach/ai-coordination-layer) - Multi-network infrastructure for human-AI collaboration
+- [Technical Implementation](/docs/methodology/technical-implementation) - How we build human-controlled AI systems
+- [Personal Purpose Alignment](/docs/services/personal-purpose-alignment) - Helping individuals develop skills for AI collaboration
 
 <!-- 
 ## Content Removed in Streamlining:

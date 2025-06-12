@@ -27,7 +27,7 @@ AI technologies are rapidly becoming accessible, almost utility-like services. W
 This creates a **three-tier workforce structure** emerging:
 
 1. **Commodity Tier**: Workers whose skills become AI-replicable, facing wage compression
-2. **Luxury Tier**: Those who develop scarce capabilities in curiosity, curation, and judgment  
+2. **Premium Tier**: Those who develop scarce capabilities in curiosity, curation, and judgment  
 3. **Care Economy**: Human-touch roles that gain importance but struggle to capture economic value
 
 ## Where Value Is Moving
@@ -66,6 +66,30 @@ To thrive in this new landscape, individuals and organizations must focus on dev
 - **Empathy and Cultural Intelligence**: Understanding and responding to the nuances of human emotion and diverse cultural contexts.
 - **Adaptability and Systems Design**: Flexibly responding to change and designing resilient human-AI systems.
 - **Facilitation, Coaching, and Regenerative Leadership**: Guiding collaborative processes, developing human potential, and leading in complex environments.
+
+## Two Economic Models
+
+### The Current Model: Competition and Control
+
+The dominant economic model prioritizes **competitive advantage** through **information asymmetries** and **platform control**:
+
+- **Centralized platforms** act as "walled gardens," locking in users and data
+- **Proprietary systems** prevent interoperability and collaboration
+- **Zero-sum thinking** where one organization's gain requires another's loss
+- **Externalized costs** to environment and communities for short-term profit
+
+This model becomes increasingly problematic as AI capabilities democratize and global challenges require unprecedented coordination.
+
+### The Emerging Model: Collaboration and Regeneration
+
+A new economic model is emerging based on **collaborative advantage** through **shared protocols** and **distributed value creation**:
+
+- **Open systems** that enable data portability and network effects
+- **Cooperative ownership** where stakeholders share in value creation
+- **Regenerative impact** that actively improves social and ecological systems
+- **Abundance thinking** where collaboration creates value for all participants
+
+Organizations operating in this model are better positioned to leverage AI for collective benefit while maintaining human agency.
 
 ## Two Paths Forward
 
@@ -108,7 +132,7 @@ To thrive in this new landscape, individuals and organizations must focus on dev
 
 ### For Individuals
 
-**Develop "Expensive" Skills:**
+**Develop "Premium" Skills:**
 - Complex problem framing and constraint identification
 - Ethical judgment and values-based decision making
 - Authentic relationship building and conflict resolution
@@ -142,9 +166,9 @@ This requires rethinking:
 - What kinds of problems you choose to solve
 
 ---
-<!-- 
+
 ### Related Pages
-- [Self-Managing Organizations](/docs/transformation/self-managing-organizations) - Organizational structures for the new economy
+- [Regenerative Economy](/docs/transformation/regenerative-economy) - The emerging collaborative economic model
+- [AI Coordination Layer](/docs/approach/ai-coordination-layer) - Infrastructure for the new economy
 - [Human-AI Partnership](/docs/approach/human-ai-partnership) - How to build complementary relationships with AI
 - [Personal Purpose Alignment](/docs/services/personal-purpose-alignment) - Helping individuals navigate the transition
-- [Use Cases & Patterns](/docs/impact/use-cases-patterns) - Practical examples of value shift in action -->

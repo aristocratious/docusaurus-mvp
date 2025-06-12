@@ -214,3 +214,7 @@ The key is maintaining intentionality about how technology serves purpose, rathe
 - [Organizational Development](/docs/services/organizational-development) - Structure and culture evolution for purpose-driven orgs
 - [AI Strategy & Implementation](/docs/services/ai-strategy-implementation) - Mission-aligned technology strategy
 - [Transformation Stories](/docs/impact/transformation-stories) - Examples of successful purpose-driven AI integration
+- [Human-AI Partnership](/docs/approach/human-ai-partnership) - How to build technology relationships that serve your mission
+- [AI Coordination Layer](/docs/approach/ai-coordination-layer) - Infrastructure for multi-organizational collaboration
+- [Regenerative Economy](/docs/transformation/regenerative-economy) - Economic paradigm for purpose-driven organizations
+- [Systems Change](/docs/transformation/systems-change) - Creating enabling environments for regenerative organizations

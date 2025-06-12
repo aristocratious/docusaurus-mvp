@@ -69,6 +69,17 @@ We build AI systems that operate within your environment and under your control.
 - **Open-source alternatives**: Local deployment options for maximum privacy
 - **Specialized models**: Task-specific AI for particular applications
 
+### Decentralized Infrastructure Approach
+
+Beyond traditional cloud infrastructure, we're exploring **decentralized approaches** that align with cooperative and regenerative principles:
+
+- **Protocol-based systems**: Building on open protocols rather than proprietary platforms
+- **Distributed networks**: Leveraging peer-to-peer technologies for resilience and independence
+- **Interoperable design**: Systems that can communicate across different platforms and networks
+- **Collective ownership models**: Infrastructure approaches that support shared stewardship
+
+This direction supports organizations moving toward more collaborative and sustainable technology architectures while maintaining the security and privacy standards essential for purpose-driven work.
+
 ### Integration and Workflow Design
 
 - **API-first architecture**: Systems designed for seamless integration with existing tools

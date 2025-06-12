@@ -28,6 +28,8 @@ const sidebars = {
         'transformation/value-shift',
         'transformation/self-managing-organizations',
         'transformation/individual-collective-growth',
+        'transformation/regenerative-economy',
+        'transformation/systems-change',
       ],
     },
     {
@@ -37,6 +39,7 @@ const sidebars = {
         'approach/human-ai-partnership',
         'approach/purpose-driven-organizations',
         'approach/inner-led-development',
+        'approach/ai-coordination-layer',
       ],
     },
     {
