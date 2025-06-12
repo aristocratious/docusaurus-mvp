@@ -21,3 +21,6 @@ yarn-error.log*
 
 # Ignore tutorial folders
 docs/ignore_*/
+
+# AI Agent Prompts
+prompts/
