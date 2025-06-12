@@ -12,6 +12,22 @@ We help purpose-driven organizations implement AI that enhances human capabiliti
 
 **What makes us different:** We focus on the intersection of AI implementation, individual purpose alignment, and organizational transformation toward self-managing, human-centered structures.
 
+```mermaid
+graph TD
+    A["AI Implementation"] --> D["Sustainable<br/>Competitive<br/>Advantage"]
+    B["Individual Purpose<br/>Alignment"] --> D
+    C["Organizational<br/>Transformation"] --> D
+    
+    A -.-> B
+    B -.-> C
+    C -.-> A
+    
+    style D fill:#e1f5fe
+    style A fill:#f3e5f5
+    style B fill:#e8f5e8
+    style C fill:#fff3e0
+```
+
 ---
 
 ## The 4-Minute Read
@@ -20,11 +36,48 @@ We help purpose-driven organizations implement AI that enhances human capabiliti
 
 AI is fundamentally changing how work gets done. As artificial intelligence handles more routine cognitive tasks, **economic value is shifting from task execution to uniquely human capabilities**: deep thinking, creative problem-solving, ethical judgment, and authentic relationship building.
 
+```mermaid
+timeline
+    title The Value Shift in Work
+    
+    section Past
+        Traditional Work : Task Execution
+                        : Standardized Processes
+                        : Hierarchical Control
+    
+    section Present
+        AI Transition : AI Handles Routine Tasks
+                     : Value Shifts to Human Judgment
+                     : Organizations Must Choose
+    
+    section Future
+        Human-Centered : Creativity & Relationships
+                      : Purpose & Meaning
+                      : Distributed Decision-Making
+```
+
 This creates both unprecedented opportunity and risk. For purpose-driven organizations, this moment can be particularly complex, often surfacing challenges like a fear of dehumanization, a lack of technical fluency in leadership, or concerns about misalignment with core values.
 
 This creates both unprecedented opportunity and risk. Organizations can either:
 - **Race to the bottom**: Use AI to do the same work faster, creating temporary gains that competitors quickly match
 - **Transform fundamentally**: Reimagine how they create value by amplifying human creativity, purpose, and collaboration
+
+```mermaid
+graph LR
+    Start[["AI Adoption<br/>Decision Point"]] --> Choice{Strategic Choice}
+    
+    Choice -->|Efficiency Focus| Bottom["Race to Bottom<br/>🔄 Same work, faster<br/>⚡ Temporary gains<br/>📉 Commoditization"]
+    Choice -->|Transformation Focus| Transform["Fundamental Transform<br/>🚀 Reimagined value creation<br/>🎨 Human creativity amplified<br/>📈 Sustainable advantage"]
+    
+    Bottom --> Outcome1["Competitors catch up<br/>Margin compression"]
+    Transform --> Outcome2["Unique capabilities<br/>Market leadership"]
+    
+    style Start fill:#f9f9f9
+    style Bottom fill:#ffebee
+    style Transform fill:#e8f5e8
+    style Outcome1 fill:#ffcdd2
+    style Outcome2 fill:#c8e6c8
+```
 
 ### Our Vision: Technology Serving Human Flourishing
 

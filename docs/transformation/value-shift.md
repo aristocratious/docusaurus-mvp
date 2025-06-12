@@ -91,17 +91,17 @@ To thrive in this new landscape, individuals and organizations must focus on dev
 
 ### For Organizations
 
-**Short-term** (1-2 years):
+**Short-term**:
 - Automate routine tasks to free human capacity
 - Identify which work requires human judgment vs. execution
 - Begin developing curiosity and curation capabilities
 
-**Medium-term** (2-5 years):  
+**Medium-term**:  
 - Restructure roles around human-AI collaboration
 - Build organizational systems that reward insight over activity
 - Develop authentic relationships as competitive moats
 
-**Long-term** (5+ years):
+**Long-term**:
 - Become known for solving problems others can't see
 - Build communities around shared values and purpose
 - Create platforms for human flourishing that technology serves

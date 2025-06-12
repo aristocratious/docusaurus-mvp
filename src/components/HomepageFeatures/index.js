@@ -4,32 +4,35 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'AI That Serves Your Mission',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        We implement AI solutions that align with your organizational values and purpose.
+        Our approach focuses on augmenting human capabilities rather than replacing human judgment,
+        ensuring technology serves your mission and supports human flourishing.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Organizational Evolution',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Transform toward self-managing structures where people bring their full potential to work.
+        We support the evolution to distributed decision-making, authentic contribution,
+        and environments where personal purpose aligns with organizational mission.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Human-AI Partnership',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        As AI handles routine tasks, the future belongs to organizations that excel at
+        uniquely human capabilities: creativity, ethical judgment, and authentic relationships.
+        We help you thrive in this transformation.
       </>
     ),
   },

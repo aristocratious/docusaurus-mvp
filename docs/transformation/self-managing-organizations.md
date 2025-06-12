@@ -127,10 +127,10 @@ With AI handling operational complexity, humans can focus on:
 
 Most organizations transition gradually:
 
-**Phase 1**: Increase consultation and transparency in decision-making
-**Phase 2**: Pilot self-managing teams in specific areas  
-**Phase 3**: Expand distributed authority across more functions
-**Phase 4**: Full transformation to purpose-driven self-management
+- **Phase 1**: Increase consultation and transparency in decision-making
+- **Phase 2**: Pilot self-managing teams in specific areas  
+- **Phase 3**: Expand distributed authority across more functions
+- **Phase 4**: Full transformation to purpose-driven self-management
 
 ### AI-Assisted Transition
 

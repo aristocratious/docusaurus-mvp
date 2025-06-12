@@ -43,6 +43,13 @@ const config = {
 
   plugins: [],
 
+  themes: ['@docusaurus/theme-mermaid'],
+  // In order for Mermaid code blocks to work in Markdown,
+  // you also need to enable the Remark plugin with this option
+  markdown: {
+    mermaid: true,
+  },
+
   presets: [
     [
       'classic',
@@ -113,25 +120,25 @@ const config = {
             ],
           },
           {
-            title: 'Community',
-            items: [
-              {
-                label: 'GitHub',
-                href: 'https://github.com/your-org/your-repo',
-              },
-            ],
+            // title: 'Community',
+            // items: [
+            //   {
+            //     label: 'GitHub',
+            //     href: 'https://github.com/your-org/your-repo',
+            //   },
+            // ],
           },
           {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-            ],
+            // title: 'More',
+            // items: [
+            //   {
+            //     label: 'Blog',
+            //     to: '/blog',
+            //   },
+            // ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Your Organization. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} `,
       },
       prism: {
         theme: prismThemes.github,
