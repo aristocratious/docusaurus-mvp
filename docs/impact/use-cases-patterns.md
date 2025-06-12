@@ -343,8 +343,8 @@ This section outlines common AI use cases and implementation patterns we see acr
 
 ---
 
-<!-- ### Related Pages
+### Related Pages
 - [Transformation Stories](/docs/impact/transformation-stories) - Detailed examples of successful implementations
 - [Outcomes & Results](/docs/impact/outcomes-results) - Measurable results and impact metrics
 - [AI Strategy & Implementation](/docs/services/ai-strategy-implementation) - Our approach to strategic AI deployment
-- [Services Overview](/docs/services/services-overview) - How our services address these use cases and patterns -->
+- [Services Overview](/docs/services/services-overview) - How our services address these use cases and patterns

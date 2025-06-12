@@ -183,8 +183,8 @@ The key is recognizing that **people and structures co-evolve**. Investing in on
 
 ---
 
-<!-- ### Related Pages
+### Related Pages
 - [Inner-Led Development](/docs/approach/inner-led-development) - Our approach to supporting individual growth
 - [Personal Purpose Alignment](/docs/services/personal-purpose-alignment) - Services for individual development  
 - [Purpose-Driven Organizations](/docs/approach/purpose-driven-organizations) - Organizational frameworks that support growth
-- [Our Methodology](/docs/methodology/our-methodology) - How we integrate individual and organizational development -->
+- [Our Methodology](/docs/methodology/our-methodology) - How we integrate individual and organizational development

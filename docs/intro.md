@@ -75,18 +75,18 @@ The organizations that thrive will be those that consciously evolve their struct
 
 ## Ready to Explore?
 
-**New to these concepts?** Start with "The Value Shift" to understand the economic transformation underway.
-<!-- (/transformation/value-shift) -->
-**Organizational leaders?** See "Purpose-Driven Organizations" for our approach to conscious business evolution.
-<!-- (/approach/purpose-driven-organizations) -->
-**Technical decision-makers?** Check "Technical Implementation" for our privacy-first, client-controlled approach.
-<!-- (/methodology/technical-implementation) -->
-**Ready to begin?** Jump to "Discovery Process" to understand how we assess organizational readiness.
-<!-- (/get-started/discovery-process) -->
+**New to these concepts?** Start with [The Value Shift](/docs/transformation/value-shift) to understand the economic transformation underway.
+
+**Organizational leaders?** See [Purpose-Driven Organizations](/docs/approach/purpose-driven-organizations) for our approach to conscious business evolution.
+
+**Technical decision-makers?** Check [Technical Implementation](/docs/methodology/technical-implementation) for our privacy-first, client-controlled approach.
+
+**Ready to begin?** Jump to [Discovery Process](/docs/get-started/discovery-process) to understand how we assess organizational readiness.
+
 ---
 
-<!-- ### Related Pages
+### Related Pages
 - [The Value Shift](/docs/transformation/value-shift) - Understanding the economic transformation
 - [Human-AI Partnership](/docs/approach/human-ai-partnership) - Our philosophy on technology and human flourishing  
 - [Services Overview](/docs/services/services-overview) - What we offer and how we work
-- [Transformation Stories](/docs/impact/transformation-stories) - Real examples of organizational evolution -->
+- [Transformation Stories](/docs/impact/transformation-stories) - Real examples of organizational evolution

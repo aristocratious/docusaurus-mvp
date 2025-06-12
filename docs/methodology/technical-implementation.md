@@ -238,8 +238,8 @@ Customization: They offer greater flexibility to be tailored to your unique miss
 
 ---
 
-<!-- ### Related Pages
+### Related Pages
 - [Human-AI Partnership](/docs/approach/human-ai-partnership) - Our philosophy behind human-controlled AI systems
 - [AI Strategy & Implementation](/docs/services/ai-strategy-implementation) - How technical implementation serves strategic goals
 - [Our Methodology](/docs/methodology/our-methodology) - Overall process for integrating technology with organizational development
-- [FAQ](/docs/get-started/faq) - Common questions about security, privacy, and technical capabilities -->
+- [FAQ](/docs/get-started/faq) - Common questions about security, privacy, and technical capabilities

@@ -217,8 +217,8 @@ The key is maintaining intentionality about how technology serves purpose, rathe
 
 ---
 
-<!-- ### Related Pages
+### Related Pages
 - [Inner-Led Development](/docs/approach/inner-led-development) - Individual development that supports organizational mission
 - [Organizational Development](/docs/services/organizational-development) - Structure and culture evolution for purpose-driven orgs
 - [AI Strategy & Implementation](/docs/services/ai-strategy-implementation) - Mission-aligned technology strategy
-- [Transformation Stories](/docs/impact/transformation-stories) - Examples of successful purpose-driven AI integration -->
+- [Transformation Stories](/docs/impact/transformation-stories) - Examples of successful purpose-driven AI integration

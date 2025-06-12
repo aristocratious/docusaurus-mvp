@@ -222,8 +222,8 @@ Our integration approach ensures AI systems work harmoniously with your existing
 
 ---
 
-<!-- ### Related Pages
+### Related Pages
 - [Technical Implementation](/docs/methodology/technical-implementation) - Detailed technical approach and security considerations
 - [Our Methodology](/docs/methodology/our-methodology) - Overall process for integrated transformation
 - [AI Strategy & Implementation](/docs/services/ai-strategy-implementation) - Strategic approach to AI system deployment
-- [Process Automation](/docs/services/process-automation) - Specific focus on workflow optimization and efficiency -->
+- [Process Automation](/docs/services/process-automation) - Specific focus on workflow optimization and efficiency

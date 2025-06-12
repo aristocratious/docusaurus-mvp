@@ -316,8 +316,8 @@ A community health nonprofit serving rural and underserved populations wanted to
 
 ---
 
-<!-- ### Related Pages
+### Related Pages
 - [Use Cases & Patterns](/docs/impact/use-cases-patterns) - Common patterns and applications across different organizational types
 - [Outcomes & Results](/docs/impact/outcomes-results) - Measurable results and impact metrics from transformations
 - [Our Methodology](/docs/methodology/our-methodology) - The process that enables these transformation stories
-- [Discovery Process](/docs/get-started/discovery-process) - How to begin your own transformation journey -->
+- [Discovery Process](/docs/get-started/discovery-process) - How to begin your own transformation journey

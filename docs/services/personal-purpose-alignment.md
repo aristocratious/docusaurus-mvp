@@ -241,8 +241,8 @@ Purpose alignment helps people develop these uniquely human capacities while fin
 
 ---
 
-<!-- ### Related Pages
+### Related Pages
 - [Inner-Led Development](/docs/approach/inner-led-development) - Our overall approach to individual development
 - [Individual + Collective Growth](/docs/transformation/individual-collective-growth) - How personal development connects with organizational transformation
 - [Purpose-Driven Organizations](/docs/approach/purpose-driven-organizations) - Creating environments that support individual purpose expression
-- [Transformation Stories](/docs/impact/transformation-stories) - Examples of individuals and organizations successfully aligning purpose with work -->
+- [Transformation Stories](/docs/impact/transformation-stories) - Examples of individuals and organizations successfully aligning purpose with work
