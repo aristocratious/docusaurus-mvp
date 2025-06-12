@@ -22,7 +22,7 @@ Every technology decision is evaluated through your mission and values lens. We 
 
 ### What if our organization isn't ready for major structural changes?
 
-We meet you where you are. Transformation can be gradual, starting with AI implementation that supports current structures while building capacity for eventual evolution. Many organizations begin with efficiency improvements and gradually develop toward more self-managing approaches.
+We meet you where you are. Transformation can be gradual, starting with AI implementation that supports current structures while building capacity for eventual evolution. Organizations can begin with efficiency improvements and gradually develop toward more collaborative approaches.
 
 ## AI Implementation Questions
 
@@ -44,7 +44,7 @@ Timeline depends on complexity and scope. Simple automation can be implemented i
 
 ### What ongoing support do you provide after implementation?
 
-We provide training, documentation, and ongoing optimization support. Many clients choose ongoing partnerships for continuous improvement and adaptation to changing needs. We also build internal capacity so your team can manage and evolve systems independently.
+We provide training, documentation, and ongoing optimization support. We can establish ongoing partnerships for continuous improvement and adaptation to changing needs. We also build internal capacity so your team can manage and evolve systems independently.
 
 ## Organizational Development Questions
 
@@ -68,7 +68,7 @@ We track both quantitative metrics (decision-making speed, employee satisfaction
 
 ### What is "inner-led development" and why does it matter for organizations?
 
-Inner-led development starts with understanding personal purpose, values, and authentic gifts, then aligns work with what matters most deeply. This creates both individual fulfillment and enhanced organizational contribution because authentic people naturally contribute more effectively.
+Inner-led development starts with understanding personal purpose, values, and authentic gifts, then aligns work with what matters most deeply. This creates both individual fulfillment and enhanced organizational contribution because authentic people often contribute more effectively.
 
 ### Do you provide individual coaching, or only group workshops?
 
@@ -90,7 +90,7 @@ We use a range of platforms including OpenAI GPT models, Claude, open-source alt
 
 ### Can you integrate with our existing software systems?
 
-Yes, we design AI systems to work seamlessly with existing tools like CRM systems, project management platforms, communication tools, and financial software. API-first design ensures smooth integration without disrupting current workflows.
+Yes, we design AI systems to work with existing tools like CRM systems, project management platforms, communication tools, and financial software. API-first design ensures integration without disrupting current workflows.
 
 ### What if we don't have technical expertise on our team?
 
@@ -104,11 +104,11 @@ We design systems to support relevant compliance requirements (GDPR, CCPA, HIPAA
 
 ### How much does AI implementation and organizational development typically cost?
 
-Investment varies based on scope and complexity. Small nonprofits might invest $25-50K for comprehensive transformation, while larger organizations typically invest $75-200K+. We provide clear cost estimates after discovery and work within organizational budget constraints.
+Investment varies based on scope and complexity. We provide cost estimates after discovery and work within organizational budget constraints. Our approach is designed to be accessible to organizations of different sizes and resource levels.
 
 ### What kind of return on investment can we expect?
 
-Organizations typically see 200-400% ROI within 12-18 months through efficiency gains, capacity increases, and improved outcomes. Benefits include time savings, reduced errors, enhanced service delivery, and increased stakeholder satisfaction. We track both financial and mission-related returns.
+Organizations can see significant returns through efficiency gains, capacity increases, and improved outcomes. Benefits include time savings, reduced errors, enhanced service delivery, and increased stakeholder satisfaction. We track both financial and mission-related returns.
 
 ### Do you offer different engagement models?
 
@@ -148,7 +148,7 @@ We typically begin discovery processes within 2-4 weeks of initial contact, depe
 
 ### Do organizations typically need ongoing support after implementation?
 
-Many organizations choose ongoing partnerships for continuous improvement, adaptation to changing needs, and support for continued evolution. Others develop sufficient internal capacity to manage systems independently. Ongoing support is available but not required.
+Organizations can choose ongoing partnerships for continuous improvement, adaptation to changing needs, and support for continued evolution. Others develop sufficient internal capacity to manage systems independently. Ongoing support is available but not required.
 
 ### How do you stay current with rapidly changing AI technology?
 
@@ -160,7 +160,7 @@ We build systems and provide documentation that don't depend on specific individ
 
 ### How do you measure long-term success and impact?
 
-We track both operational metrics (efficiency, effectiveness, satisfaction) and mission-related outcomes (impact, stakeholder benefit, community contribution). Long-term success includes sustained organizational health, continued evolution capacity, and contribution to broader regenerative economic systems.
+We track both operational metrics (efficiency, effectiveness, satisfaction) and mission-related outcomes (impact, stakeholder benefit, community contribution). Long-term success includes sustained organizational health, continued evolution capacity, and positive community impact.
 
 ---
 
@@ -168,10 +168,9 @@ We track both operational metrics (efficiency, effectiveness, satisfaction) and 
 
 If you have questions not addressed in this FAQ, we encourage you to:
 
-- **Start a conversation** with our AI assistant for immediate responses
+- **Start a conversation** with our team for immediate responses
 - **Schedule a brief consultation** to discuss your specific situation
 - **Request additional resources** about topics of particular interest
-- **Connect with organizations** we've worked with for peer perspectives
 
 We're committed to providing clear, helpful information to support your decision-making process.
 
@@ -182,3 +181,29 @@ We're committed to providing clear, helpful information to support your decision
 - [Next Steps](/docs/get-started/next-steps) - How to begin your transformation journey
 - [Our Methodology](/docs/methodology/our-methodology) - Our overall approach to integrated transformation
 - [Technical Implementation](/docs/methodology/technical-implementation) - Detailed technical approach and security considerations
+
+<!-- 
+## Content Removed/Modified to Address Overconfidence:
+
+1. **Specific pricing ranges** - Removed "$25-50K for small nonprofits" and "$75-200K+ for larger organizations" as these implied established pricing structure without client base
+
+2. **Specific ROI percentages and timelines** - Changed "Organizations typically see 200-400% ROI within 12-18 months" to "Organizations can see significant returns" to avoid overstating proven results
+
+3. **"Many clients choose" language** - Changed to "We can establish" to avoid implying extensive client base
+
+4. **"Many organizations" claims** - Modified to "Organizations can" to avoid implying extensive track record
+
+5. **AI assistant reference** - Changed "Start a conversation with our AI assistant" to "our team" to avoid overstating AI capabilities
+
+6. **Client reference option** - Removed "Connect with organizations we've worked with for peer perspectives" as it implied existing client references
+
+7. **Regenerative economic systems claim** - Simplified "contribution to broader regenerative economic systems" to "positive community impact" to avoid overstating movement impact
+
+8. **"Seamlessly" integration claims** - Softened to "work with" to avoid overpromising integration ease
+
+9. **"Naturally contribute more effectively"** - Changed to "often contribute more effectively" to avoid absolute claims about human behavior
+
+10. **"Self-managing" terminology** - Changed to "more collaborative approaches" to avoid overstating organizational transformation claims
+
+The changes maintain the helpful FAQ format while removing specific claims that would be inappropriate for a new project without an established client base or proven track record. All modifications preserve the core value proposition while using more appropriate language for a starting organization.
+-->

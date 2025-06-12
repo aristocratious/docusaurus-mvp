@@ -8,20 +8,20 @@ sidebar_position: 3
 
 ## Summary
 
-Ready to explore how AI implementation and organizational development can serve your mission? This guide outlines the practical steps to begin working with us, from initial conversation through comprehensive transformation.
+Ready to explore how AI implementation and organizational development can serve your mission? This guide outlines the practical steps to begin working with us, from initial conversation through transformation.
 
 ---
 
 ## Immediate Next Steps
 
-### 1. Start a Conversation with Our AI Assistant
+### 1. Start a Conversation
 
-**What happens**: Our AI assistant will ask about your organization, current challenges, and transformation interests
-**Duration**: 10-15 minutes
-**Purpose**: Initial assessment of fit and scheduling of human consultation
-**Outcome**: Clear understanding of next steps and connection with appropriate team member
+**What happens**: Initial conversation about your organization, current challenges, and transformation interests
+**Duration**: 15-30 minutes
+**Purpose**: Initial assessment of fit and scheduling of consultation
+**Outcome**: Clear understanding of next steps and connection with our team
 
-**Topics the assistant will explore**:
+**Topics we'll explore**:
 - Your organizational type, size, and mission
 - Current technology systems and AI experience
 - Main challenges you'd like to address
@@ -46,10 +46,10 @@ Ready to explore how AI implementation and organizational development can serve 
 
 Based on the discovery consultation, we'll recommend one of several engagement approaches:
 
-**Full Discovery Process**: Comprehensive 4-6 week assessment and strategy development
-**Focused Assessment**: 2-3 week evaluation of specific area or opportunity
-**Pilot Project**: 6-8 week proof-of-concept in targeted area
-**Strategic Consultation**: Ongoing advisory relationship for planning and guidance
+- **Full Discovery Process**: Comprehensive 4-6 week assessment and strategy development
+- **Focused Assessment**: 2-3 week evaluation of specific area or opportunity
+- **Pilot Project**: 6-8 week proof-of-concept in targeted area
+- **Strategic Consultation**: Ongoing advisory relationship for planning and guidance
 
 ## Preparation for Initial Conversations
 
@@ -85,7 +85,6 @@ Based on the discovery consultation, we'll recommend one of several engagement a
 - IT or technology point person
 - Member or community representatives
 - Financial manager or treasurer
-- Long-term organizational members with historical perspective
 
 ## Engagement Pathway Options
 
@@ -93,7 +92,6 @@ Based on the discovery consultation, we'll recommend one of several engagement a
 
 **Best for**: Organizations ready for integrated AI implementation and organizational development
 **Timeline**: 6-18 months depending on scope
-**Investment**: $75-200K+ depending on size and complexity
 **Outcome**: Full transformation with AI systems, organizational evolution, and individual development
 
 **Process overview**:
@@ -106,7 +104,6 @@ Based on the discovery consultation, we'll recommend one of several engagement a
 
 **Best for**: Organizations with specific, well-defined goals in AI or organizational development
 **Timeline**: 3-6 months
-**Investment**: $25-75K depending on scope
 **Outcome**: Targeted transformation in specific area with foundation for future expansion
 
 **Common focus areas**:
@@ -119,7 +116,6 @@ Based on the discovery consultation, we'll recommend one of several engagement a
 
 **Best for**: Organizations with internal capacity wanting ongoing strategic guidance
 **Timeline**: 6-12 months with renewable terms
-**Investment**: $5-15K monthly depending on engagement level
 **Outcome**: Strategic support for internally-led transformation with expert guidance
 
 **Advisory support includes**:
@@ -132,7 +128,6 @@ Based on the discovery consultation, we'll recommend one of several engagement a
 
 **Best for**: Organizations wanting to test approaches before larger commitment
 **Timeline**: 6-10 weeks
-**Investment**: $15-35K depending on pilot scope
 **Outcome**: Demonstration of value and approach with clear path for expansion
 
 **Common pilot areas**:
@@ -161,7 +156,6 @@ Based on the discovery consultation, we'll recommend one of several engagement a
 - Clear understanding of current state and transformation opportunities
 - Customized strategy and implementation roadmap
 - Resource requirements and investment planning
-- Organizational alignment and commitment to next steps
 
 ### Implementation Phase
 
@@ -169,7 +163,6 @@ Based on the discovery consultation, we'll recommend one of several engagement a
 - Leadership guidance and decision-making support
 - Staff participation in training and system development
 - Stakeholder feedback and input on system design
-- Ongoing communication and change management
 
 **Our activities**:
 - AI system development and deployment
@@ -181,7 +174,6 @@ Based on the discovery consultation, we'll recommend one of several engagement a
 - Functional AI systems integrated with workflows
 - Enhanced organizational culture and collaboration
 - Individual development and leadership capacity
-- Measurable improvements in effectiveness and satisfaction
 
 ### Optimization and Evolution Phase
 
@@ -189,49 +181,16 @@ Based on the discovery consultation, we'll recommend one of several engagement a
 - Regular feedback and evaluation participation
 - Continued learning and adaptation
 - System management and optimization
-- Knowledge sharing and peer learning
 
 **Our activities**:
 - Performance monitoring and improvement recommendations
 - Ongoing training and capacity building
 - Strategic guidance for continued evolution
-- Connection with broader learning community
 
 **Outcomes**:
 - Sustained improvement and adaptation capacity
 - Internal expertise for managing and evolving systems
-- Contribution to broader movement for organizational transformation
 - Long-term sustainability and continued growth
-
-## Investment and Financial Considerations
-
-### Understanding Value and Return on Investment
-
-**Typical ROI timelines**:
-- **6-12 months**: Administrative efficiency and time savings
-- **12-18 months**: Enhanced capacity and service delivery
-- **18-24 months**: Cultural transformation and mission amplification
-- **24+ months**: Leadership in regenerative organizational models
-
-**Value creation areas**:
-- **Operational efficiency**: Time savings, error reduction, resource optimization
-- **Capacity expansion**: Ability to serve more people or address larger problems
-- **Quality improvement**: Better outcomes for stakeholders and communities
-- **Mission amplification**: Enhanced ability to achieve organizational purpose
-
-### Financing and Resource Planning
-
-**Investment approaches**:
-- **Annual budget allocation**: Spreading investment across fiscal year
-- **Grant funding**: Many foundations support organizational development and technology innovation
-- **Revenue allocation**: Using percentage of revenue for organizational development
-- **Phased investment**: Starting small and expanding based on demonstrated value
-
-**Cost considerations**:
-- **Technology implementation**: AI systems, integration, and training
-- **Organizational development**: Facilitation, coaching, and capacity building
-- **Individual development**: Purpose alignment and leadership development
-- **Ongoing support**: Optimization, adaptation, and continued learning
 
 ## Preparing Your Organization for Transformation
 
@@ -263,35 +222,19 @@ Based on the discovery consultation, we'll recommend one of several engagement a
 - Technical expertise and learning capacity
 - Security and privacy requirements
 
-### Timeline and Expectation Setting
-
-**Realistic timeline planning**:
-- Allow adequate time for discovery and planning
-- Expect gradual implementation with learning and adaptation
-- Plan for ongoing optimization and evolution beyond initial implementation
-- Coordinate with other organizational priorities and initiatives
-
-**Success expectation alignment**:
-- Define success in terms of both operational improvement and mission advancement
-- Expect both challenges and breakthroughs during transformation
-- Plan for individual and organizational growth throughout process
-- Anticipate positive ripple effects beyond immediate implementation scope
-
 ---
 
 ## Ready to Begin?
 
-The transformation toward AI-augmented, purpose-driven, self-managing organizations represents one of the most promising pathways for creating work that serves both human flourishing and collective thriving.
+The transformation toward AI-augmented, purpose-driven organizations represents a promising pathway for creating work that serves both human flourishing and collective thriving.
 
-Whether you're just beginning to explore these possibilities or ready to dive into comprehensive transformation, we're here to support your journey.
+Whether you're just beginning to explore these possibilities or ready to dive into transformation, we're here to support your journey.
 
 **Start today by**:
-- Having a conversation with our AI assistant
+- Having a conversation with our team
 - Scheduling a discovery consultation
 - Gathering your team for initial discussion
 - Reviewing our resources and examples
-
-The future of work is being created by organizations like yours that choose to consciously evolve rather than simply react to change. We're honored to support you in pioneering approaches that demonstrate what's possible when technology truly serves human purpose.
 
 ---
 

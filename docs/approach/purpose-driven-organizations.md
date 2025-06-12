@@ -16,49 +16,41 @@ We specialize in working with organizations that prioritize purpose alongside pr
 
 ### Organizational Types
 
-**Cooperatives**: Member-owned organizations already practicing distributed ownership and democratic decision-making
+- **Cooperatives**: Member-owned organizations already practicing distributed ownership and democratic decision-making
+- **B-Corporations**: Companies legally committed to balancing profit with social and environmental benefits
 
-**B-Corporations**: Companies legally committed to balancing profit with social and environmental benefits
+- **Social Enterprises**: Organizations using business methods to solve social or environmental problems
+- **Mission-Driven Nonprofits**: NGOs seeking to amplify impact through thoughtful technology adoption
 
-**Social Enterprises**: Organizations using business methods to solve social or environmental problems
-
-**Mission-Driven Nonprofits**: NGOs seeking to amplify impact through thoughtful technology adoption
-
-**Conscious Businesses**: For-profit companies with explicit commitments to stakeholder capitalism
-
-**Educational Institutions**: Schools and universities focused on human development and learning
+- **Conscious Businesses**: For-profit companies with explicit commitments to stakeholder capitalism
+- **Educational Institutions**: Schools and universities focused on human development and learning
 
 ### Common Characteristics
 
-**Values Integration**: Mission and values guide strategic decisions, not just marketing
+- **Values Integration**: Mission and values guide strategic decisions, not just marketing
+- **Stakeholder Focus**: Considering impact on employees, customers, communities, and environment
 
-**Stakeholder Focus**: Considering impact on employees, customers, communities, and environment
+- **Long-term Thinking**: Prioritizing sustainability and regenerative impact over short-term gains
+- **Collaborative Culture**: Already practicing some form of participatory decision-making
 
-**Long-term Thinking**: Prioritizing sustainability and regenerative impact over short-term gains
-
-**Collaborative Culture**: Already practicing some form of participatory decision-making
-
-**Growth Mindset**: Open to evolution and learning, especially about organizational development
+- **Growth Mindset**: Open to evolution and learning, especially about organizational development
 
 ## Why These Organizations Are AI-Ready
 
 ### Built-in Value Alignment
 
-**Natural Ethics Framework**: Purpose-driven organizations already have clear values to guide AI implementation decisions
+- **Natural Ethics Framework**: Purpose-driven organizations already have clear values to guide AI implementation decisions
 
-**Stakeholder Consideration**: Accustomed to considering broad impact, not just efficiency gains
-
-**Mission Testing**: New technologies must serve the mission, creating natural filters for appropriate AI use
+- **Stakeholder Consideration**: Accustomed to considering broad impact, not just efficiency gains
+- **Mission Testing**: New technologies must serve the mission, creating natural filters for appropriate AI use
 
 ### Cultural Foundations
 
-**Trust and Transparency**: Existing cultures that value openness make AI transparency easier to implement
+- **Trust and Transparency**: Existing cultures that value openness make AI transparency easier to implement
+- **Human Development**: Already investing in people, making human-AI partnership more natural
 
-**Human Development**: Already investing in people, making human-AI partnership more natural
-
-**Adaptive Capacity**: Experience with change and evolution prepares organizations for AI integration
-
-**Collaborative Decision-Making**: Existing consultation processes can easily incorporate AI insights
+- **Adaptive Capacity**: Experience with change and evolution prepares organizations for AI integration
+- **Collaborative Decision-Making**: Existing consultation processes can easily incorporate AI insights
 
 ## Our Approach with Purpose-Driven Organizations
 

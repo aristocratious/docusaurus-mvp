@@ -1,246 +1,173 @@
 ---
 title: Services Overview
-description: Comprehensive view of our AI implementation and organizational development services
+description: Our integrated approach to AI implementation, organizational development, and individual purpose alignment
 sidebar_position: 1
 ---
 
-# Services Overview: AI Implementation + Organizational Development
-
-## Summary
-
-We provide integrated services that combine AI strategy and implementation with organizational development and individual growth support. Our approach ensures that technology serves human flourishing while helping organizations evolve toward more effective, purpose-driven structures.
-
----
+# Services Overview
 
 ## Our Integrated Approach
 
-### Technology + Human Development
+We offer a unique combination of services that address technology, organizational structure, and individual development together. Most consulting firms focus on just one area, but sustainable transformation requires all three working in harmony.
 
-**Why both matter**: True transformation requires more than just new tools or new org charts. AI implementation without human development often fails to realize its potential, creating efficient but soulless systems. Conversely, organizational change without technology support can't keep pace with current realities and may lack the tools to be effective.
-
-**Our solution**: Combine AI strategy and implementation with the organizational development and individual growth work that makes technology transformation sustainable.
-
-### The Four Core Service Areas
-
-```
-AI Strategy & Implementation
-    ↕
-Process Automation
-    ↕  
-Organizational Development
-    ↕
-Personal Purpose Alignment
-```
-
-Each area reinforces the others, creating integrated transformation rather than isolated improvements.
+**Why Integration Matters:**
+- AI implementation succeeds when it aligns with organizational culture and individual purpose
+- Organizational development is more effective when supported by appropriate technology
+- Individual growth flourishes in environments that support both human and technological intelligence
+- Values-driven organizations need approaches that honor both efficiency and meaning
 
 ---
 
-## Service Area 1: AI Strategy & Implementation
+## Core Service Areas
 
-### What We Do
+### [AI Strategy & Implementation](/docs/services/ai-strategy-implementation)
 
-**Strategic Assessment**: Evaluate your current processes, identify where AI can add value, and create implementation roadmaps aligned with your values
+**What we deliver:** Mission-aligned AI solutions that enhance human capabilities while serving organizational purpose.
 
-**Custom AI Solutions**: Build and deploy AI tools that integrate with your existing workflows and organizational culture
+**Focus areas:**
+- Strategic AI planning and readiness assessment
+- Custom AI applications (chatbots, automation, analytics)
+- Human-AI collaboration training and optimization
+- Privacy-first, client-controlled implementations
 
-**Technology Integration**: Ensure AI systems work seamlessly with your current tools and processes
-
-**Team Training**: Develop your team's capacity to work effectively with AI while maintaining human agency
-
-### Typical Deliverables
-
-- AI readiness assessment and strategic roadmap
-- Custom AI applications (chatbots, automation tools, analysis systems)
-- Integration with existing software platforms
-- Training programs for effective human-AI collaboration
-- Ongoing optimization and refinement
-
-### Who This Serves
-
-- Organizations new to AI wanting strategic guidance
-- Companies seeking custom AI solutions that align with their values
-- Teams needing to develop AI collaboration skills
-- Leaders wanting to understand AI's strategic implications
+**Best for:** Organizations ready to implement AI strategically while maintaining values alignment and human agency.
 
 ---
 
-## Service Area 2: Process Automation
+### [Process Automation](/docs/services/process-automation)
 
-### What We Do
+**What we deliver:** Intelligent workflow automation that frees human capacity for relationship-building and strategic work.
 
-**Workflow Analysis**: Identify routine tasks that can be automated while preserving work that requires human judgment
+**Focus areas:**
+- Administrative workflow optimization
+- Communication and coordination automation
+- Data management and reporting systems
+- Quality assurance and human oversight integration
 
-**Smart Automation**: Build AI-powered systems that handle repetitive processes while maintaining human oversight
-
-**Integration Design**: Connect automated processes with existing systems and human workflows
-
-**Quality Assurance**: Ensure automated systems maintain quality standards and align with organizational values
-
-### Typical Deliverables
-
-- Process analysis and automation recommendations
-- Custom workflow automation systems
-- Integration with CRM, project management, and communication tools
-- Quality monitoring and alert systems
-- Documentation and training for managing automated processes
-
-### Who This Serves
-
-- Organizations with significant routine administrative work
-- Teams spending too much time on repetitive tasks
-- Companies wanting to free human capacity for strategic work
-- Leaders seeking operational efficiency that preserves human value
+**Best for:** Organizations with significant routine tasks that want to redirect human energy toward mission-critical activities.
 
 ---
 
-## Service Area 3: Organizational Development
+### [Organizational Development](/docs/services/organizational-development)
 
-### What We Do
+**What we deliver:** Support for evolving toward self-managing, purpose-driven organizational structures that thrive alongside AI.
 
-**Structure Evolution**: Support transition toward self-managing, purpose-driven organizational models
+**Focus areas:**
+- Distributed authority and democratic decision-making
+- Culture development for human-AI collaboration
+- Values integration and authentic communication
+- Change management for organizational evolution
 
-**Culture Development**: Help create environments where both humans and AI can contribute their unique strengths
-
-**Decision-Making Enhancement**: Implement processes that combine human wisdom with AI analysis
-
-**Change Management**: Guide organizational adaptation to AI integration and structural evolution
-
-### Typical Deliverables
-
-- Organizational assessment and development roadmap
-- New governance and decision-making processes
-- Culture development programs and practices
-- Change management support and training
-- Measurement systems for organizational health
-
-### Who This Serves
-
-- Organizations wanting to evolve beyond traditional hierarchical structures
-- Companies implementing self-management or cooperative principles
-- Teams needing better collaboration and decision-making processes
-- Leaders guiding organizational transformation
+**Best for:** Organizations wanting to evolve beyond traditional hierarchies toward more adaptive, purpose-driven structures.
 
 ---
 
-## Service Area 4: Personal Purpose Alignment
+### [Personal Purpose Alignment](/docs/services/personal-purpose-alignment)
 
-### What We Do
+**What we deliver:** Individual development support that helps people discover their unique contribution and align it with meaningful work.
 
-**Individual Purpose Discovery**: Help people understand their unique gifts, values, and calling
+**Focus areas:**
+- Purpose discovery and values clarification
+- Career and role design for authentic contribution
+- Leadership development for self-managing environments
+- Integration of personal growth with organizational mission
 
-**Work-Life Integration**: Support alignment between personal purpose and professional contribution
-
-**Development Planning**: Create personalized growth paths that serve both individual and organizational goals
-
-**Leadership Development**: Build capacity for leading in self-managing, purpose-driven environments
-
-### Typical Deliverables
-
-- Individual purpose discovery and clarification processes
-- Personal development and career planning support
-- Leadership coaching for evolving organizational contexts
-- Group workshops on values, purpose, and authentic contribution
-- Integration coaching for connecting personal growth with work responsibilities
-
-### Who This Serves
-
-- Individuals seeking greater meaning and alignment in their work
-- Leaders transitioning to self-managing organizational models
-- Teams wanting to strengthen collaboration and shared purpose
-- Organizations supporting employee growth and development
+**Best for:** Individuals and teams seeking greater meaning and effectiveness in work, especially in evolving organizational contexts.
 
 ---
 
 ## How Services Work Together
 
-### Integrated Implementation Example
+### Integrated Transformation Example
 
-**Month 1-2**: Organizational and individual assessment
-- Evaluate current AI readiness and organizational structure
-- Conduct individual purpose discovery sessions with key team members
-- Identify automation opportunities and development priorities
+**Months 1-2: Assessment and Foundation**
+- [AI Strategy & Implementation](/docs/services/ai-strategy-implementation): Organizational readiness assessment and technology strategy development
+- [Personal Purpose Alignment](/docs/services/personal-purpose-alignment): Individual purpose discovery with key team members
+- [Organizational Development](/docs/services/organizational-development): Culture and structure assessment for transformation readiness
 
-**Month 3-4**: Strategic planning and early implementation
-- Design AI strategy that aligns with organizational purpose and individual growth
-- Begin process automation in high-impact areas
-- Start organizational development work to support change
+**Months 3-4: Strategic Implementation**
+- [Process Automation](/docs/services/process-automation): High-impact workflow automation to free human capacity
+- [AI Strategy & Implementation](/docs/services/ai-strategy-implementation): Custom AI solution deployment with training
+- [Organizational Development](/docs/services/organizational-development): Initial governance and decision-making process evolution
 
-**Month 5-6**: Full implementation and integration
-- Deploy custom AI solutions with team training
-- Implement new organizational processes and governance structures
-- Continue individual development support and leadership coaching
+**Months 5-6: Integration and Optimization**
+- All services: Full system integration with ongoing optimization and support
+- [Personal Purpose Alignment](/docs/services/personal-purpose-alignment): Advanced individual development and leadership coaching
+- [Organizational Development](/docs/services/organizational-development): Cultural integration and self-managing system maturation
 
-**Ongoing**: Optimization and evolution
-- Refine AI systems based on usage and feedback
-- Support continued organizational and individual development
-- Adapt approach based on changing needs and opportunities
+**Ongoing: Evolution and Growth**
+- Continuous optimization and adaptation across all service areas
+- Regular assessment and strategic planning for continued development
+- Community connection and knowledge sharing with peer organizations
 
-### Customization by Organization Type
+---
 
-**Cooperatives and B-Corps**: Emphasis on democratic decision-making enhancement and member/stakeholder engagement
+## Service Customization by Organization Type
 
-**Nonprofits**: Focus on mission amplification, impact measurement, and resource optimization
+### Cooperatives and Member Organizations
+- **Emphasis:** Democratic participation enhancement and transparent governance
+- **AI Focus:** Member engagement tools and consensus-building support
+- **Development Priority:** Distributed leadership and collaborative decision-making
 
-**Social Enterprises**: Integration of multiple bottom lines (profit, people, planet) in AI strategy
+### Nonprofits and Mission-Driven Organizations
+- **Emphasis:** Mission amplification and impact measurement
+- **AI Focus:** Program effectiveness and stakeholder communication
+- **Development Priority:** Purpose alignment and regenerative impact
 
-**Educational Institutions**: Learning-focused applications with strong emphasis on human development
+### Social Enterprises and B-Corps
+- **Emphasis:** Triple bottom line optimization and stakeholder engagement
+- **AI Focus:** Impact measurement and sustainable business development
+- **Development Priority:** Values-driven leadership and community integration
 
-**Conscious Businesses**: Stakeholder capitalism support with values-driven technology implementation
+### Educational Institutions
+- **Emphasis:** Learning enhancement and community building
+- **AI Focus:** Personalized learning support and administrative efficiency
+- **Development Priority:** Educational innovation and collaborative governance
 
 ---
 
 ## Investment and Engagement Models
 
-### Project-Based Engagement
+### Comprehensive Transformation
+**Timeline:** 12-18 months | **Investment:** $75-200K+ | **Best for:** Organizations ready for integrated change across all areas
 
-**Best for**: Organizations with specific, well-defined goals and timelines
-**Duration**: 3-6 months typically
-**Focus**: Implementing particular AI solutions or organizational changes
+### Focused Service Implementation
+**Timeline:** 3-6 months | **Investment:** $25-75K | **Best for:** Organizations with specific goals in one or two service areas
 
-### Ongoing Partnership
+### Strategic Advisory Partnership
+**Timeline:** Ongoing | **Investment:** $5-15K monthly | **Best for:** Organizations wanting strategic guidance with internal implementation
 
-**Best for**: Organizations wanting continuous support for evolution and optimization
-**Duration**: 12+ months with renewable terms
-**Focus**: Sustained transformation with regular adaptation and improvement
-
-### Consulting and Advisory
-
-**Best for**: Organizations with internal capacity wanting strategic guidance
-**Duration**: Quarterly or monthly advisory sessions
-**Focus**: Strategic direction and problem-solving support
-
-### Training and Development
-
-**Best for**: Organizations wanting to build internal capacity
-**Duration**: Intensive workshops or extended learning programs
-**Focus**: Skill development for AI collaboration and organizational evolution
+### Pilot and Proof-of-Concept
+**Timeline:** 6-10 weeks | **Investment:** $15-35K | **Best for:** Organizations wanting to test value before larger commitment
 
 ---
 
-## Unique Value Proposition
+## Why Choose Our Integrated Approach
 
-### What Makes Our Approach Different
+### Holistic Transformation
+We address technology, organizational structure, and individual development together, creating sustainable change rather than fragmented improvements.
 
-**Holistic Integration**: We address technology, organizational structure, and individual development together
+### Values-First Implementation
+Every solution is designed to serve your mission and support human flourishing, not just operational efficiency.
 
-**Values Alignment**: Every technology choice is evaluated through the lens of organizational purpose and human flourishing
+### Human-AI Partnership
+We implement AI that enhances rather than replaces human capabilities, preserving what makes work meaningful.
 
-**Human-Centric AI**: We implement AI that augments rather than replaces human capabilities
+### Practical Idealism
+We combine transformational vision with pragmatic implementation, meeting you where you are while supporting evolution toward where you want to be.
 
-**Practical Idealism**: We combine transformational vision with pragmatic implementation
-
-**Ongoing Evolution**: We support continuous adaptation rather than one-time implementations
-
-### Why Organizations Choose Us
-
-- **Mission-driven focus**: We understand purpose-driven organizations and their unique needs
-- **Technology expertise**: Deep knowledge of AI tools and their practical applications
-- **Organizational development experience**: Proven track record supporting structural and cultural change
-- **Individual development support**: Recognition that organizational change requires individual growth
-- **Integration capacity**: Ability to connect technology, structure, and human development coherently
+### Long-term Partnership
+We build internal capacity and provide ongoing support for continued growth and adaptation.
 
 ---
+
+## Ready to Explore?
+
+**Not sure where to start?** Begin with our [Discovery Process](/docs/get-started/discovery-process) to understand which services would best serve your organization.
+
+**Have specific questions?** Check our [FAQ](/docs/get-started/faq) for answers about process, investment, and outcomes.
+
+**Ready to begin?** See [Next Steps](/docs/get-started/next-steps) for options to start your transformation journey.
 
 ### Related Pages
 - [AI Strategy & Implementation](/docs/services/ai-strategy-implementation) - Detailed view of our technology services
