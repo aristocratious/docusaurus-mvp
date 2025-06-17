@@ -1,0 +1,18 @@
+{
+  "title": {
+    "message": "IA & Propósito",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Logo de IA & Propósito",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Documentation": {
+    "message": "Documentación",
+    "description": "Navbar item with label Documentation"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}

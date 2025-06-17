@@ -38,7 +38,23 @@ const config = {
   // may want to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'es'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+        direction: 'ltr',
+        htmlLang: 'en-US',
+        calendar: 'gregory',
+        path: 'en',
+      },
+      es: {
+        label: 'Español',
+        direction: 'ltr',
+        htmlLang: 'es-ES',
+        calendar: 'gregory',
+        path: 'es',
+      },
+    },
   },
 
   plugins: [],
@@ -99,6 +115,10 @@ const config = {
             sidebarId: 'docs',
             position: 'left',
             label: 'Documentation',
+          },
+          {
+            type: 'localeDropdown',
+            position: 'right',
           },
           {
             href: 'https://github.com/your-org/your-repo',
