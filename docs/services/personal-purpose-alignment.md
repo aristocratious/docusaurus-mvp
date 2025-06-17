@@ -36,32 +36,32 @@ Purpose alignment helps people develop these uniquely human capacities while fin
 
 ### Understanding Your Unique Design
 
-**Values clarification**: Identifying the principles that actually guide your decisions
-**Gifts recognition**: Understanding your natural talents, learned skills, and unique perspectives
-**Energy patterns**: Recognizing what activities give you energy vs. what drains you
-**Meaning-making style**: How you create significance and find direction in your life
+- **Values clarification**: Identifying the principles that actually guide your decisions
+- **Gifts recognition**: Understanding your natural talents, learned skills, and unique perspectives
+- **Energy patterns**: Recognizing what activities give you energy vs. what drains you
+- **Meaning-making style**: How you create significance and find direction in your life
 
 ### Exploring Your Calling
 
-**Life themes**: Patterns of meaning and contribution that show up across different areas of your life
-**Edge of growth**: Where you're being called to develop and expand your capacity
-**Service orientation**: How your unique gifts can contribute to something larger than yourself
-**Integration challenges**: Areas where personal purpose and current circumstances feel misaligned
+- **Life themes**: Patterns of meaning and contribution that show up across different areas of your life
+- **Edge of growth**: Where you're being called to develop and expand your capacity
+- **Service orientation**: How your unique gifts can contribute to something larger than yourself
+- **Integration challenges**: Areas where personal purpose and current circumstances feel misaligned
 
 ### Creating Alignment Strategy
 
-**Career and role design**: Shaping work responsibilities to better match your purpose and gifts
-**Boundary setting**: Learning to honor your values even in challenging organizational contexts
-**Development planning**: Building capacities that serve both personal growth and professional contribution
-**Integration practices**: Daily habits and choices that keep you connected to purpose
+- **Career and role design**: Shaping work responsibilities to better match your purpose and gifts
+- **Boundary setting**: Learning to honor your values even in challenging organizational contexts
+- **Development planning**: Building capacities that serve both personal growth and professional contribution
+- **Integration practices**: Daily habits and choices that keep you connected to purpose
 
 ## Individual Development Services
 
 ### Purpose Discovery Intensives
 
-**Format**: Multi-session deep exploration process
-**Duration**: 6-8 weeks with ongoing integration support
-**Approach**: Combination of structured exercises, reflective dialogue, and practical experimentation
+- **Format**: Multi-session deep exploration process
+- **Duration**: 6-8 weeks with ongoing integration support
+- **Approach**: Combination of structured exercises, reflective dialogue, and practical experimentation
 
 **Core elements**:
 - Personal history exploration to identify patterns and themes
@@ -71,9 +71,9 @@ Purpose alignment helps people develop these uniquely human capacities while fin
 
 ### Ongoing Purpose Coaching
 
-**Format**: Regular individual sessions with personalized development focus
-**Duration**: 3-12 months depending on goals and complexity
-**Approach**: Collaborative exploration with practical application
+- **Format**: Regular individual sessions with personalized development focus
+- **Duration**: 3-12 months depending on goals and complexity
+- **Approach**: Collaborative exploration with practical application
 
 **Common focus areas**:
 - Career transition planning that honors both purpose and practical needs
@@ -83,9 +83,9 @@ Purpose alignment helps people develop these uniquely human capacities while fin
 
 ### Life and Work Design Support
 
-**Format**: Strategic planning sessions combined with ongoing implementation support
-**Duration**: 3-6 months with periodic check-ins
-**Approach**: Holistic integration of personal purpose with practical life choices
+- **Format**: Strategic planning sessions combined with ongoing implementation support
+- **Duration**: 3-6 months with periodic check-ins
+- **Approach**: Holistic integration of personal purpose with practical life choices
 
 **Design elements**:
 - Role crafting to align current work with purpose and values
@@ -97,42 +97,42 @@ Purpose alignment helps people develop these uniquely human capacities while fin
 
 ### Leadership Development for Purpose-Driven Environments
 
-**Authentic communication**: Expressing personal values and vision in ways that inspire
-**Conflict transformation**: Using personal purpose clarity to navigate organizational tensions
-**Change leadership**: Supporting others through transition while staying grounded in personal values
+- **Authentic communication**: Expressing personal values and vision in ways that inspire
+- **Conflict transformation**: Using personal purpose clarity to navigate organizational tensions
+- **Change leadership**: Supporting others through transition while staying grounded in personal values
 
 ### Team Purpose Alignment Workshops
 
-**Shared purpose discovery**: Helping teams identify collective mission that honors individual purposes
-**Values integration**: Creating team agreements that respect diverse individual values while maintaining unity
-**Role design**: Crafting individual contributions that serve both personal calling and team objectives
+- **Shared purpose discovery**: Helping teams identify collective mission that honors individual purposes
+- **Values integration**: Creating team agreements that respect diverse individual values while maintaining unity
+- **Role design**: Crafting individual contributions that serve both personal calling and team objectives
 
 ### Organizational Culture Development
 
-**Purpose-driven hiring**: Helping organizations attract people whose personal purpose aligns with mission
-**Values-based evaluation**: Assessment approaches that honor authentic contribution alongside measurable outcomes
-**Growth-oriented development**: Individual development planning that serves both personal evolution and organizational needs
+- **Purpose-driven hiring**: Helping organizations attract people whose personal purpose aligns with mission
+- **Values-based evaluation**: Assessment approaches that honor authentic contribution alongside measurable outcomes
+- **Growth-oriented development**: Individual development planning that serves both personal evolution and organizational needs
 
 ## Integration with AI and Technology
 
 ### AI-Assisted Self-Discovery
 
-**Pattern recognition**: AI analysis of personal history and decision patterns to support self-understanding
-**Reflection enhancement**: AI-powered journaling and reflection tools
-**Development personalization**: Customized learning and growth plans based on individual purpose
-**Progress tracking**: AI support for measuring growth in qualitative areas
+- **Pattern recognition**: AI analysis of personal history and decision patterns to support self-understanding
+- **Reflection enhancement**: AI-powered journaling and reflection tools
+- **Development personalization**: Customized learning and growth plans based on individual purpose
+- **Progress tracking**: AI support for measuring growth in qualitative areas
 
 ### Technology That Serves Human Development
 
-**Communication tools**: Technology that enhances rather than replaces authentic human connection
-**Learning platforms**: AI-customized education that develops uniquely human capacities
-**Decision support**: Tools that help integrate personal values with complex choices
+- **Communication tools**: Technology that enhances rather than replaces authentic human connection
+- **Learning platforms**: AI-customized education that develops uniquely human capacities
+- **Decision support**: Tools that help integrate personal values with complex choices
 
 ### Preparing for AI-Enhanced Work
 
-**Human-AI collaboration skills**: Learning to work with AI in ways that preserve and enhance human agency
-**Uniquely human capacity development**: Strengthening capabilities that become more valuable as AI spreads
-**Future of work preparation**: Developing resilience and adaptability for continued technological change
+- **Human-AI collaboration skills**: Learning to work with AI in ways that preserve and enhance human agency
+- **Uniquely human capacity development**: Strengthening capabilities that become more valuable as AI spreads
+- **Future of work preparation**: Developing resilience and adaptability for continued technological change
 
 ## Common Purpose Alignment Challenges
 

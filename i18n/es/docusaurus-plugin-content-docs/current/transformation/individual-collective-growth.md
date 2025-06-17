@@ -16,11 +16,11 @@ La transformación sostenible ocurre cuando el crecimiento personal y organizaci
 
 ### Por Qué Ambos Importan
 
-**Desarrollo Individual Solo**: Crea conocimientos y capacidad, pero puede carecer de apoyo sistémico para expresarlos
+- **Desarrollo Individual Solo**: Crea conocimientos y capacidad, pero puede carecer de apoyo sistémico para expresarlos
 
-**Cambio Organizacional Solo**: Crea nuevas estructuras, pero puede carecer del desarrollo humano necesario para mantenerlas
+- **Cambio Organizacional Solo**: Crea nuevas estructuras, pero puede carecer del desarrollo humano necesario para mantenerlas
 
-**Juntos**: Alineación personal y evolución organizacional crean sistemas mutuamente reforzados que son tanto resilientes como adaptativos
+- **Juntos**: Alineación personal y evolución organizacional crean sistemas mutuamente reforzados que son tanto resilientes como adaptativos
 
 ### El Ciclo de Retroalimentación
 
@@ -44,10 +44,10 @@ Enhanced Environment for Individual Development
 
 Conforme la IA maneja más tareas externas, la **calidad de nuestra vida interior** se vuelve cada vez más importante:
 
-**Self-Knowledge**: Understanding your unique gifts, values, and sense of purpose
-**Emotional Regulation**: Managing anxiety, overwhelm, and uncertainty as change accelerates  
-**Authentic Expression**: Bringing your full self to work and relationships
-**Systemic Thinking**: Seeing patterns, connections, and emergence rather than just parts
+- **Self-Knowledge**: Understanding your unique gifts, values, and sense of purpose
+- **Emotional Regulation**: Managing anxiety, overwhelm, and uncertainty as change accelerates  
+- **Authentic Expression**: Bringing your full self to work and relationships
+- **Systemic Thinking**: Seeing patterns, connections, and emergence rather than just parts
 
 ### Más Allá del Desarrollo de Habilidades
 
@@ -62,74 +62,74 @@ El desarrollo profesional tradicional se centró en **capacidades externas**. La
 
 ### Prácticas de Desarrollo Dirigidas por el Interior
 
-**Purpose Discovery**: Deep exploration of what gives your life meaning and how that connects to your work
+- **Purpose Discovery**: Deep exploration of what gives your life meaning and how that connects to your work
 
-**Values Clarification**: Understanding what principles guide your decisions and how to honor them consistently
+- **Values Clarification**: Understanding what principles guide your decisions and how to honor them consistently
 
-**Somatic Awareness**: Developing body-based intelligence for decision-making and stress regulation
+- **Somatic Awareness**: Developing body-based intelligence for decision-making and stress regulation
 
-**Shadow Work**: Recognizing and integrating aspects of yourself you've rejected or hidden
+- **Shadow Work**: Recognizing and integrating aspects of yourself you've rejected or hidden
 
-**Systems Sensing**: Developing capacity to sense organizational and social dynamics beyond the obvious
+- **Systems Sensing**: Developing capacity to sense organizational and social dynamics beyond the obvious
 
 ## Patrones de Evolución Colectiva
 
 ### Cómo las Organizaciones Actualmente Cambian
 
-**Nivel de Superficie**: Nuevas políticas, procedimientos y herramientas
-**Nivel Estructural**: Cambios en roles, autoridad y procesos de toma de decisiones  
-**Nivel Cultural**: Cambios en valores, suposiciones y formas de relacionarse
-**Nivel Generativo**: Transformación en propósito, identidad y forma de ser
+- **Nivel de Superficie**: Nuevas políticas, procedimientos y herramientas
+- **Nivel Estructural**: Cambios en roles, autoridad y procesos de toma de decisiones  
+- **Nivel Cultural**: Cambios en valores, suposiciones y formas de relacionarse
+- **Nivel Generativo**: Transformación en propósito, identidad y forma de ser
 
 **Key insight**: El cambio duradero requiere alineación en todos los niveles, con cambios culturales y generativos que a menudo impulsan los otros.
 
 ### El Rol del Desarrollo Individual
 
-**La cultura surge de individuos**: La forma de ser colectiva refleja los estados internos de las personas involucradas
+- **La cultura surge de individuos**: La forma de ser colectiva refleja los estados internos de las personas involucradas
 
-**Liderazgo desde cualquier lugar**: En sistemas auto-gestionados, cualquiera puede iniciar cambios culturales a través de su propio desarrollo auténtico
+- **Liderazgo desde cualquier lugar**: En sistemas auto-gestionados, cualquiera puede iniciar cambios culturales a través de su propio desarrollo auténtico
 
-**Modelado de nuevas posibilidades**: Cuando los individuos se convierten en nuevas formas de ser, les dan permiso a otros para hacer lo mismo
+- **Modelado de nuevas posibilidades**: Cuando los individuos se convierten en nuevas formas de ser, les dan permiso a otros para hacer lo mismo
 
 ## Integración Práctica
 
 ### Para Individuos en Organizaciones
 
-**Empiece por ti mismo**: Comience el trabajo de desarrollo interno independientemente de la preparación organizacional
-**Encuentre aliados**: Conéctese con otros que compartan valores y intereses de desarrollo similares
-**Experimente con seguridad**: Pruebe nuevas formas de ser en contextos de bajo riesgo primero
-**Comparta conocimientos**: Contribuya su aprendizaje a la comprensión colectiva
-**Sea paciente**: El cambio organizacional a menudo sigue al cambio individual con un retraso
+- **Empiece por ti mismo**: Comience el trabajo de desarrollo interno independientemente de la preparación organizacional
+- **Encuentre aliados**: Conéctese con otros que compartan valores y intereses de desarrollo similares
+- **Experimente con seguridad**: Pruebe nuevas formas de ser en contextos de bajo riesgo primero
+- **Comparta conocimientos**: Contribuya su aprendizaje a la comprensión colectiva
+- **Sea paciente**: El cambio organizacional a menudo sigue al cambio individual con un retraso
 
 ### Para Organizaciones Apoyando el Desarrollo Individual
 
-**Crear seguridad psicológica**: Entornos donde las personas pueden ser vulnerables y auténticas
-**Proporcionar recursos de desarrollo**: Acceso a coaching, tiempo de reflexión y oportunidades de aprendizaje
-**Alinear sistemas con valores**: Diseñar políticas y prácticas para apoyar el crecimiento que está fomentando  
-**Celebrar personas enteras**: Reconocer y premiar contribución auténtica, no solo rendimiento
-**Hacer espacio para la emergencia**: Permitir desarrollos no planeados y soluciones creativas
+- **Crear seguridad psicológica**: Entornos donde las personas pueden ser vulnerables y auténticas
+- **Proporcionar recursos de desarrollo**: Acceso a coaching, tiempo de reflexión y oportunidades de aprendizaje
+- **Alinear sistemas con valores**: Diseñar políticas y prácticas para apoyar el crecimiento que está fomentando  
+- **Celebrar personas enteras**: Reconocer y premiar contribución auténtica, no solo rendimiento
+- **Hacer espacio para la emergencia**: Permitir desarrollos no planeados y soluciones creativas
 
 ## AI como Apoyo al Desarrollo
 
 ### Mejora del Desarrollo Individual
 
-**Recognition of Patterns**: AI puede ayudar a identificar patrones en el comportamiento, la toma de decisiones y el crecimiento a lo largo del tiempo
+- **Recognition of Patterns**: AI puede ayudar a identificar patrones en el comportamiento, la toma de decisiones y el crecimiento a lo largo del tiempo
 
-**Support for Reflection**: AI-powered journaling and reflection tools that ask insightful questions
+- **Support for Reflection**: AI-powered journaling and reflection tools that ask insightful questions
 
-**Personalization of Learning**: Development paths customized based on individual needs and learning styles
+- **Personalization of Learning**: Development paths customized based on individual needs and learning styles
 
-**Integration Assistance**: Help connecting insights from different areas of development
+- **Integration Assistance**: Help connecting insights from different areas of development
 
 ### Amplificación de Inteligencia Colectiva
 
-**Group Dynamics Insights**: AI analysis of communication patterns and collaboration effectiveness
+- **Group Dynamics Insights**: AI analysis of communication patterns and collaboration effectiveness
 
-**Cultural Assessment**: Tracking organizational culture shifts through multiple data sources
+- **Cultural Assessment**: Tracking organizational culture shifts through multiple data sources
 
-**Decision Support**: AI-assisted consultation processes that incorporate diverse perspectives
+- **Decision Support**: AI-assisted consultation processes that incorporate diverse perspectives
 
-**Emergence Detection**: Identifying new possibilities and innovations arising from collective development
+- **Emergence Detection**: Identifying new possibilities and innovations arising from collective development
 
 ## Retos Comunes y Soluciones
 
@@ -155,10 +155,10 @@ El desarrollo profesional tradicional se centró en **capacidades externas**. La
 
 El desarrollo verdadero se extiende más allá de la satisfacción individual y el éxito organizacional para incluir:
 
-**Impacto Comunitario**: ¿Cómo contribuye tu crecimiento a la salud de tu comunidad local?
-**Conciencia Ecológica**: ¿Cuál es tu relación con los sistemas naturales que sustentan la vida?
-**Pensamiento Intergeneracional**: ¿Cómo afectan tus elecciones de hoy el futuro de las generaciones?
-**Sistemas Globales**: ¿Cómo contribuye tu trabajo a abordar desafíos planetarios?
+- **Impacto Comunitario**: ¿Cómo contribuye tu crecimiento a la salud de tu comunidad local?
+- **Conciencia Ecológica**: ¿Cuál es tu relación con los sistemas naturales que sustentan la vida?
+- **Pensamiento Intergeneracional**: ¿Cómo afectan tus elecciones de hoy el futuro de las generaciones?
+- **Sistemas Globales**: ¿Cómo contribuye tu trabajo a abordar desafíos planetarios?
 
 ### Propósito Que Transcende
 

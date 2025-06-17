@@ -112,21 +112,22 @@ Creemos que la IA debe aumentar las capacidades humanas en lugar de reemplazar e
 ## Avoiding Common Pitfalls
 
 ### Over-Reliance on AI
-**Risk**: Humans lose skills and judgment capacity through disuse
-**Prevention**: Maintain human involvement in decision-making and ensure regular skill development
+- **Risk**: Humans lose skills and judgment capacity through disuse
+- **Prevention**: Maintain human involvement in decision-making and ensure regular skill development
 
 ### Under-Utilizing AI
-**Risk**: Missing opportunities to enhance human capabilities and outcomes
-**Prevention**: Systematically identify where AI can provide value without displacing human judgment
+- **Risk**: Missing opportunities to enhance human capabilities and outcomes
+- **Prevention**: Systematically identify where AI can provide value without displacing human judgment
 
 ### Misaligned Incentives
-**Risk**: AI systems optimizing for metrics that don't serve human values
-**Prevention**: Careful consideration of goals, feedback loops, and value alignment in system design
+- **Risk**: AI systems optimizing for metrics that don't serve human values
+- **Prevention**: Careful consideration of goals, feedback loops, and value alignment in system design
 
 ## Ethical Considerations
 
 ### Privacy and Data Sovereignty
 **Principle**: Individuals and organizations maintain control over their data
+
 **Implementation**: 
 - AI systems operate within client environments when possible
 - Clear data usage policies and consent processes
@@ -134,6 +135,7 @@ Creemos que la IA debe aumentar las capacidades humanas en lugar de reemplazar e
 
 ### Fairness and Bias
 **Principle**: AI systems should enhance rather than amplify existing inequalities
+
 **Implementation**:
 - Regular auditing of AI outputs for bias
 - Diverse perspectives in AI system design and evaluation
@@ -141,6 +143,7 @@ Creemos que la IA debe aumentar las capacidades humanas en lugar de reemplazar e
 
 ### Human Dignity & Ethical Oversight
 **Principle**: Technology should enhance rather than diminish human worth and agency
+
 **Implementation**:
 - AI systems designed to support human decision-making, not replace it
 - Preservation of meaningful work and development opportunities

@@ -35,7 +35,7 @@ Traditional organizational structures were optimized for:
 
 ## The Self-Managing Alternative
 
-Self-managing organizations (sometimes called "Teal Organizations") operate on three breakthrough principles:
+Self-managing organizations (sometimes called "Teal Organizations")<sup>1</sup> operate on three breakthrough principles:
 
 ### 1. Distributed Authority
 
@@ -154,11 +154,20 @@ Self-managing organizations are uniquely positioned to implement AI that serves 
 
 ### Human-AI Partnership
 
-The same principles that make self-management work enable effective human-AI collaboration:
-- Clear role definition (human judgment + AI analysis)
-- Consultation processes that include AI insights
-- Adaptive authority based on competence (human or AI)
-- Purpose-driven technology choices
+The same principles that make self-management work enable effective human-AI collaboration. Rather than viewing AI as a tool to be controlled by management, self-managing organizations treat AI as a collaborative partner with specific competencies.
+
+**Complementary Strengths Framework**:
+- **AI excels at**: Data processing, pattern recognition, scenario modeling, and optimizing complex variables
+- **Humans excel at**: Ethical judgment, creative synthesis, relationship building, and navigating ambiguous contexts
+- **Together they create**: More intelligent decisions that balance analytical rigor with human wisdom
+
+**Distributed Intelligence in Practice**:
+- Clear role definition ensures AI enhances rather than replaces human judgment
+- Consultation processes naturally incorporate AI insights alongside human perspectives  
+- Authority flows to whoever—human or AI—has the most relevant competence for specific decisions
+- Purpose-driven criteria guide when to rely on AI recommendations versus human intuition
+
+**Trust and Transparency**: Self-managing cultures already value transparency, making it natural to implement explainable AI systems where people understand how and why AI reaches its conclusions. This builds the trust necessary for genuine human-AI collaboration rather than fearful resistance or blind dependence.
 
 ---
 
@@ -179,3 +188,9 @@ The question isn't whether to evolve organizational structures, but **how quickl
 - [Organizational Development](/docs/services/organizational-development) - Services for structural transformation
 - [Individual + Collective Growth](/docs/transformation/individual-collective-growth) - How personal and organizational development reinforce each other
 - [Transformation Stories](/docs/impact/transformation-stories) - Examples of successful transitions
+
+---
+
+### References
+
+1. Reinventing Organizations Wiki. (n.d.). Teal Concepts. Retrieved from https://reinventingorganizationswiki.com/en/pages/tealconcepts/

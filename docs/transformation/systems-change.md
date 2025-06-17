@@ -25,10 +25,10 @@ Individual organizational transformation happens within larger systems that can 
 
 ### Levels of Systems Change
 
-**Individual Level**: Personal purpose, skills, and consciousness development
-**Organizational Level**: Mission, governance, and operational transformation  
-**Network Level**: Collaboration, coordination, and collective action
-**Systems Level**: Policy, infrastructure, and cultural transformation
+- **Individual Level**: Personal purpose, skills, and consciousness development
+- **Organizational Level**: Mission, governance, and operational transformation  
+- **Network Level**: Collaboration, coordination, and collective action
+- **Systems Level**: Policy, infrastructure, and cultural transformation
 
 ## Policy Frameworks for Regenerative Organizations
 

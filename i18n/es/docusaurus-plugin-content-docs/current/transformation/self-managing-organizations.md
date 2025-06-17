@@ -35,7 +35,7 @@ Traditional organizational structures were optimized for:
 
 ## The Self-Managing Alternative
 
-Self-managing organizations (sometimes called "Teal Organizations") operate on three breakthrough principles:
+Self-managing organizations (sometimes called "Teal Organizations")<sup>1</sup> operate on three breakthrough principles:
 
 ### 1. Distributed Authority
 
@@ -152,13 +152,22 @@ Self-managing organizations are uniquely positioned to implement AI that serves 
 - Wholeness ensures ethical considerations are integrated
 - Distributed authority prevents technological power concentration
 
-### Human-AI Partnership
+### Asociación Humano-IA
 
-The same principles that make self-management work enable effective human-AI collaboration:
-- Clear role definition (human judgment + AI analysis)
-- Consultation processes that include AI insights
-- Adaptive authority based on competence (human or AI)
-- Purpose-driven technology choices
+Los mismos principios que hacen que la auto-gestión funcione permiten una colaboración efectiva humano-IA. En lugar de ver la IA como una herramienta para ser controlada por la gerencia, las organizaciones auto-gestionadas tratan la IA como un socio colaborativo con competencias específicas.
+
+**Marco de Fortalezas Complementarias**:
+- **La IA sobresale en**: Procesamiento de datos, reconocimiento de patrones, modelado de escenarios y optimización de variables complejas
+- **Los humanos sobresalen en**: Juicio ético, síntesis creativa, construcción de relaciones y navegación de contextos ambiguos
+- **Juntos crean**: Decisiones más inteligentes que equilibran rigor analítico con sabiduría humana
+
+**Inteligencia Distribuida en la Práctica**:
+- La definición clara de roles asegura que la IA mejore en lugar de reemplazar el juicio humano
+- Los procesos de consulta incorporan naturalmente perspicacias de IA junto con perspectivas humanas
+- La autoridad fluye hacia quien—humano o IA—tenga la competencia más relevante para decisiones específicas
+- Los criterios impulsados por el propósito guían cuándo confiar en recomendaciones de IA versus intuición humana
+
+**Confianza y Transparencia**: Las culturas auto-gestionadas ya valoran la transparencia, haciendo natural implementar sistemas de IA explicables donde las personas entienden cómo y por qué la IA llega a sus conclusiones. Esto construye la confianza necesaria para una colaboración genuina humano-IA en lugar de resistencia temerosa o dependencia ciega.
 
 ---
 
@@ -179,3 +188,9 @@ The question isn't whether to evolve organizational structures, but **how quickl
 - [Organizational Development](/docs/services/organizational-development) - Services for structural transformation
 - [Individual + Collective Growth](/docs/transformation/individual-collective-growth) - How personal and organizational development reinforce each other
 - [Transformation Stories](/docs/impact/transformation-stories) - Examples of successful transitions
+
+---
+
+### Referencias
+
+1. Reinventing Organizations Wiki. (n.d.). Teal Concepts. Retrieved from https://reinventingorganizationswiki.com/en/pages/tealconcepts/

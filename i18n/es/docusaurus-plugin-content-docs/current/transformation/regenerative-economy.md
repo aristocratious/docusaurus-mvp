@@ -86,14 +86,42 @@ AI can serve regenerative purposes when designed to:
 - **Peer-to-peer networks**: Direct collaboration without intermediary control
 - **Composable services**: Mix and match capabilities as needed
 
-### Data as a Commons
+### Datos como Bien Común
 
-Regenerative data approaches:
+Los enfoques regenerativos de datos transforman los datos de un recurso a ser extraído en un bien común a ser gestionado. Esto requiere cambios fundamentales en cómo pensamos sobre la propiedad, acceso y uso de datos.
 
-- **User ownership**: Individuals control their personal data
-- **Collective benefit**: Data insights serve community needs
-- **Transparent algorithms**: Clear understanding of how data is used
-- **Purpose limitation**: Data used only for explicitly agreed-upon goals
+**Principios Fundamentales:**
+
+- **Propiedad del usuario**: Los individuos controlan sus datos personales a través de derechos de portabilidad de datos y mecanismos de consentimiento granular
+- **Beneficio colectivo**: Los insights de datos sirven a las necesidades de la comunidad en lugar de intereses puramente comerciales
+- **Algoritmos transparentes**: Comprensión clara de cómo se procesan, analizan y aplican los datos
+- **Limitación de propósito**: Los datos se usan solo para objetivos explícitamente acordados con límites estrictos
+
+**Cómo Funcionan las Limitaciones de Propósito:**
+
+**Marcos Legales y Técnicos:**
+- **Acuerdos de uso de datos**: Contratos claros que especifican exactamente para qué se pueden usar los datos y qué está prohibido
+- **Aplicación técnica**: Contratos inteligentes o controles criptográficos que previenen el uso de datos fuera de parámetros acordados
+- **Registros de auditoría**: Logs inmutables que muestran cómo se han accedido y usado los datos
+- **Cláusulas de expiración**: Eliminación o anonimización automática después de períodos específicos
+
+**Implementación Práctica:**
+- **Consentimiento granular**: Los usuarios pueden aprobar el uso de datos para "mejorar el transporte local" pero no para "targeting publicitario"
+- **Tokens con propósito limitado**: Tokens técnicos que llevan restricciones de uso y expiran automáticamente para usos no aprobados
+- **Supervisión comunitaria**: Fideicomisos de datos locales o cooperativas que gobiernan el uso de datos en nombre de sus miembros
+- **Límites algorítmicos**: Sistemas de IA diseñados con restricciones incorporadas que previenen la expansión de misión
+
+**Ejemplos en la Práctica:**
+- **Datos de salud**: Datos de pacientes usados para investigación médica pero prohibidos para evaluación de riesgo de seguros
+- **Datos de transporte**: Datos de ubicación usados para optimización de tráfico pero no para vigilancia individual
+- **Datos educativos**: Analíticas de aprendizaje para mejorar currículum pero no para clasificación o ranking de estudiantes
+- **Datos ambientales**: Datos de sensores para monitoreo climático pero no para especulación inmobiliaria
+
+**Mecanismos de Aplicación:**
+- **Salvaguardas técnicas**: Métodos criptográficos que hacen técnicamente imposibles los usos prohibidos
+- **Penalizaciones legales**: Aplicación estricta con consecuencias significativas por violaciones de propósito
+- **Gobernanza comunitaria**: Procesos democráticos para actualizar y hacer cumplir políticas de uso de datos
+- **Sistemas de reputación**: Responsabilidad pública para organizaciones que respetan o violan principios de datos comunes
 
 ## Economic Transformation Patterns
 

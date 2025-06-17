@@ -88,12 +88,40 @@ AI can serve regenerative purposes when designed to:
 
 ### Data as a Commons
 
-Regenerative data approaches:
+Regenerative data approaches transform data from a resource to be extracted into a commons to be stewarded. This requires fundamental shifts in how we think about data ownership, access, and use.
 
-- **User ownership**: Individuals control their personal data
-- **Collective benefit**: Data insights serve community needs
-- **Transparent algorithms**: Clear understanding of how data is used
-- **Purpose limitation**: Data used only for explicitly agreed-upon goals
+**Core Principles:**
+
+- **User ownership**: Individuals control their personal data through portable data rights and granular consent mechanisms
+- **Collective benefit**: Data insights serve community needs rather than purely commercial interests
+- **Transparent algorithms**: Clear understanding of how data is processed, analyzed, and applied
+- **Purpose limitation**: Data used only for explicitly agreed-upon goals with strict boundaries
+
+**How Purpose Limitations Work:**
+
+**Legal and Technical Frameworks:**
+- **Data use agreements**: Clear contracts specifying exactly what data can be used for and what is prohibited
+- **Technical enforcement**: Smart contracts or cryptographic controls that prevent data use outside agreed parameters
+- **Audit trails**: Immutable logs showing how data has been accessed and used
+- **Sunset clauses**: Automatic deletion or anonymization after specific time periods
+
+**Practical Implementation:**
+- **Granular consent**: Users can approve data use for "improving local transit" but not for "advertising targeting"
+- **Purpose-bound tokens**: Technical tokens that carry usage restrictions and automatically expire for non-approved uses
+- **Community oversight**: Local data trusts or cooperatives that govern data use on behalf of members
+- **Algorithmic boundaries**: AI systems designed with built-in constraints that prevent mission creep
+
+**Examples in Practice:**
+- **Health data**: Patient data used for medical research but prohibited from insurance risk assessment
+- **Transportation data**: Location data used for traffic optimization but not for individual surveillance
+- **Educational data**: Learning analytics for improving curriculum but not for student ranking or sorting
+- **Environmental data**: Sensor data for climate monitoring but not for property speculation
+
+**Enforcement Mechanisms:**
+- **Technical safeguards**: Cryptographic methods that make prohibited uses technically impossible
+- **Legal penalties**: Strong enforcement with meaningful consequences for purpose violations
+- **Community governance**: Democratic processes for updating and enforcing data use policies
+- **Reputation systems**: Public accountability for organizations that respect or violate data commons principles
 
 ## Economic Transformation Patterns
 
