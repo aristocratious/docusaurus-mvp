@@ -24,7 +24,7 @@ Las tecnologías de IA se están volviendo rápidamente accesibles, casi como se
 
 > **Perspectiva Clave**: La IA no elimina empleos—hace que la mayoría del trabajo de conocimiento sea tan abundante que pierde valor económico, similar a cómo la fotografía hizo que la pintura realista fuera económicamente inútil.
 
-Esto crea una **estructura de fuerza laboral de tres niveles** emergente:
+Esto crea una **estructura de fuerza laboral de tres niveles**<sup>1</sup> emergente:
 
 1. **Nivel de Mercancía**: Trabajadores cuyas habilidades se vuelven replicables por IA, enfrentando compresión salarial
 2. **Nivel Premium**: Aquellos que desarrollan capacidades escasas en curiosidad, curación y juicio
@@ -140,7 +140,7 @@ Las organizaciones que operan en este modelo están mejor posicionadas para apro
 - Reconocimiento intuitivo de patrones en situaciones ambiguas
 
 **Evitar la "Falacia del Toque Humano":**
-> Solo porque algo se sienta significativo no significa que comandará valor económico. El valor económico requiere tanto valor intrínseco Y escasez Y relevancia de mercado.
+> Solo porque algo se sienta significativo no significa que comandará valor económico. El valor económico requiere tanto valor intrínseco Y escasez Y relevancia de mercado.<sup>2</sup>
 
 ## El Desafío del Sistema Nervioso
 
@@ -172,3 +172,11 @@ Esto requiere repensar:
 - [Capa de Coordinación de IA](/docs/approach/ai-coordination-layer) - Infraestructura para la nueva economía
 - [Asociación Humano-IA](/docs/approach/human-ai-partnership) - Cómo construir relaciones complementarias con IA
 - [Alineación del Propósito Personal](/docs/services/personal-purpose-alignment) - Ayudando a individuos a navegar la transición
+
+---
+
+### Referencias
+
+1. Choudary, S. P. (2024). Humans as 'luxury goods' in the age of AI. *Platforms, AI, and the Economics of BigTech*. Retrieved from https://platforms.substack.com/p/humans-as-luxury-goods-in-the-age
+
+2. Choudary, S. P. (2024). Humans as 'luxury goods' in the age of AI. *Platforms, AI, and the Economics of BigTech*. Retrieved from https://platforms.substack.com/p/humans-as-luxury-goods-in-the-age

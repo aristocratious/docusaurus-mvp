@@ -24,7 +24,7 @@ AI technologies are rapidly becoming accessible, almost utility-like services. W
 
 > **Key Insight**: AI doesn't eliminate jobs—it makes most knowledge work so abundant it loses economic value, similar to how photography made realistic painting economically worthless.
 
-This creates a **three-tier workforce structure** emerging:
+This creates a **three-tier workforce structure**<sup>1</sup> emerging:
 
 1. **Commodity Tier**: Workers whose skills become AI-replicable, facing wage compression
 2. **Premium Tier**: Those who develop scarce capabilities in curiosity, curation, and judgment  
@@ -140,7 +140,7 @@ Organizations operating in this model are better positioned to leverage AI for c
 - Intuitive pattern recognition in ambiguous situations
 
 **Avoid the "Human Touch Fallacy":**
-> Just because something feels meaningful doesn't mean it will command economic value. Economic value requires both intrinsic worth AND scarcity AND market relevance.
+> Just because something feels meaningful doesn't mean it will command economic value. Economic value requires both intrinsic worth AND scarcity AND market relevance.<sup>2</sup>
 
 ## The Nervous System Challenge
 
@@ -172,3 +172,11 @@ This requires rethinking:
 - [AI Coordination Layer](/docs/approach/ai-coordination-layer) - Infrastructure for the new economy
 - [Human-AI Partnership](/docs/approach/human-ai-partnership) - How to build complementary relationships with AI
 - [Personal Purpose Alignment](/docs/services/personal-purpose-alignment) - Helping individuals navigate the transition
+
+---
+
+### References
+
+1. Choudary, S. P. (2024). Humans as 'luxury goods' in the age of AI. *Platforms, AI, and the Economics of BigTech*. Retrieved from https://platforms.substack.com/p/humans-as-luxury-goods-in-the-age
+
+2. Choudary, S. P. (2024). Humans as 'luxury goods' in the age of AI. *Platforms, AI, and the Economics of BigTech*. Retrieved from https://platforms.substack.com/p/humans-as-luxury-goods-in-the-age
