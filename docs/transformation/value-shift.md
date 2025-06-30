@@ -12,6 +12,8 @@ As AI handles more routine cognitive work, economic value is shifting from **spe
 
 ---
 
+:::div{class="rag-ignore"}
+
 ## The Great Commoditization Wave
 
 ### What's Happening Now
@@ -29,6 +31,8 @@ This creates a **three-tier workforce structure**<sup>1</sup> emerging:
 1. **Commodity Tier**: Workers whose skills become AI-replicable, facing wage compression
 2. **Premium Tier**: Those who develop scarce capabilities in curiosity, curation, and judgment  
 3. **Care Economy**: Human-touch roles that gain importance but struggle to capture economic value
+
+:::
 
 ## Where Value Is Moving
 
@@ -67,6 +71,8 @@ To thrive in this new landscape, individuals and organizations must focus on dev
 - **Adaptability and Systems Design**: Flexibly responding to change and designing resilient human-AI systems.
 - **Facilitation, Coaching, and Regenerative Leadership**: Guiding collaborative processes, developing human potential, and leading in complex environments.
 
+:::div{class="rag-ignore"}
+
 ## Two Economic Models
 
 ### The Current Model: Competition and Control
@@ -90,6 +96,8 @@ A new economic model is emerging based on **collaborative advantage** through **
 - **Abundance thinking** where collaboration creates value for all participants
 
 Organizations operating in this model are better positioned to leverage AI for collective benefit while maintaining human agency.
+
+:::
 
 ## Two Paths Forward
 
@@ -142,6 +150,8 @@ Organizations operating in this model are better positioned to leverage AI for c
 **Avoid the "Human Touch Fallacy":**
 > Just because something feels meaningful doesn't mean it will command economic value. Economic value requires both intrinsic worth AND scarcity AND market relevance.<sup>2</sup>
 
+:::div{class="rag-ignore"}
+
 ## The Nervous System Challenge
 
 This transition isn't just economic—it's **neurobiological**. Our nervous systems, evolved for physical and social challenges, are overwhelmed by:
@@ -152,6 +162,8 @@ This transition isn't just economic—it's **neurobiological**. Our nervous syst
 - Identity dissolution as traditional competence markers disappear
 
 **Solution**: Organizations must create environments that support both technological efficiency and human nervous system regulation.
+
+:::
 
 ---
 

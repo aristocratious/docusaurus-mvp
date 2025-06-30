@@ -75,6 +75,8 @@ We believe AI should augment human capabilities rather than replace human judgme
 - **Cultural Sensitivity**: Navigating the nuanced differences between communities and contexts
 - **Moral Imagination**: Envisioning possibilities for how things could be better
 
+:::div{class="rag-ignore"}
+
 ## What AI Does Best
 
 ### AI's Natural Strengths
@@ -92,6 +94,8 @@ We believe AI should augment human capabilities rather than replace human judgme
 - **Option Generation**: AI creates multiple possibilities for human evaluation and selection
 - **Workflow Automation**: AI handles routine processes while humans focus on exceptions and innovation
 - **Communication Support**: AI facilitates coordination while humans build relationships
+
+:::
 
 ## Practical Implementation
 

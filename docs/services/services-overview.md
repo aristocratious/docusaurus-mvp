@@ -10,11 +10,15 @@ sidebar_position: 1
 
 We offer a unique combination of services that address technology, organizational structure, and individual development together. Most consulting firms focus on just one area, but sustainable transformation requires all three working in harmony.
 
+:::div{class="rag-ignore"}
+
 **Why Integration Matters:**
 - AI implementation succeeds when it aligns with organizational culture and individual purpose
 - Organizational development is more effective when supported by appropriate technology
 - Individual growth flourishes in environments that support both human and technological intelligence
 - Values-driven organizations need approaches that honor both efficiency and meaning
+
+:::
 
 ---
 
@@ -126,6 +130,8 @@ We offer a unique combination of services that address technology, organizationa
 
 ---
 
+:::div{class="rag-ignore"}
+
 ## Investment and Engagement Models
 
 ### Integrated Transformation
@@ -139,6 +145,8 @@ We offer a unique combination of services that address technology, organizationa
 
 ### Pilot and Proof-of-Concept
 **Timeline:** 6-10 weeks | **Best for:** Organizations wanting to test value before larger commitment
+
+:::
 
 ---
 

@@ -28,3 +28,16 @@
   --ifm-color-primary-lightest: #4fddbf;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
 }
+
+/* Custom styling for RAG-ignored sections */
+.rag-ignore {
+  color: #666666;
+  font-style: italic;
+  opacity: 0.8;
+}
+
+/* Dark mode styling for RAG-ignored sections */
+[data-theme='dark'] .rag-ignore {
+  color: #999999;
+  opacity: 0.7;
+}

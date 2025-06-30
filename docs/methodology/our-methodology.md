@@ -12,6 +12,8 @@ Our methodology integrates AI implementation with organizational development and
 
 ---
 
+:::div{class="rag-ignore"}
+
 ## Core Methodology Principles
 
 ### Holistic Integration
@@ -53,6 +55,8 @@ We support:
 - Pilot programs that test approaches before full implementation
 - Continuous learning and adaptation based on results
 - Long-term thinking that prioritizes sustainability over speed
+
+:::
 
 ## Three-Phase Methodology
 

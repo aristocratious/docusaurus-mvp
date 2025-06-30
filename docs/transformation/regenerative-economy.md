@@ -12,6 +12,8 @@ A regenerative economy actively revitalizes and enhances ecological, social, and
 
 ---
 
+:::div{class="rag-ignore"}
+
 ## Beyond Sustainability
 
 ### The Limits of "Sustainable"
@@ -36,6 +38,8 @@ Sustainability often means maintaining the status quo—but our current systems 
 - Internalizes ecological and social benefits
 - Distributes ownership and decision-making capacity
 - Optimizes for long-term flourishing of all stakeholders
+
+:::
 
 ## Core Principles
 
@@ -123,6 +127,8 @@ Regenerative data approaches transform data from a resource to be extracted into
 - **Community governance**: Democratic processes for updating and enforcing data use policies
 - **Reputation systems**: Public accountability for organizations that respect or violate data commons principles
 
+:::div{class="rag-ignore"}
+
 ## Economic Transformation Patterns
 
 ### From Competition to Collaboration
@@ -155,6 +161,8 @@ Regenerative organizations measure success through:
 - **Community land trusts**: Local communities own land for long-term benefit
 - **Open source projects**: Collective ownership of knowledge and tools
 
+:::
+
 ## AI-Assisted Regenerative Organizations
 
 ### Characteristics
@@ -182,6 +190,8 @@ AI implementations must avoid:
 - **Technological solutionism**: Assuming technology alone can solve complex problems
 - **Democratic deficit**: Removing human agency from important decisions
 
+:::div{class="rag-ignore"}
+
 ## Current Examples and Emerging Patterns
 
 ### Regenerative Business Models
@@ -205,6 +215,10 @@ AI implementations must avoid:
 - **Cooperative banks**: Financial institutions owned by their members
 - **Gift economies**: Systems based on abundance and mutual aid
 
+:::
+
+:::div{class="rag-ignore"}
+
 ## Transition Pathways
 
 ### Individual Level
@@ -227,6 +241,8 @@ AI implementations must avoid:
 - **Infrastructure development**: Building shared platforms and protocols
 - **Cultural narrative**: Shifting stories about business and technology
 - **Movement building**: Connecting isolated initiatives into coherent movements
+
+:::
 
 ---
 

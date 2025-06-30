@@ -24,6 +24,8 @@ Every technology decision is evaluated through your mission and values lens. We 
 
 We meet you where you are. Transformation can be gradual, starting with AI implementation that supports current structures while building capacity for eventual evolution. Organizations can begin with efficiency improvements and gradually develop toward more collaborative approaches.
 
+:::div{class="rag-ignore"}
+
 ## AI Implementation Questions
 
 ### What types of AI tools do you implement?
@@ -45,6 +47,8 @@ Timeline depends on complexity and scope. Simple automation can be implemented i
 ### What ongoing support do you provide after implementation?
 
 We provide training, documentation, and ongoing optimization support. We can establish ongoing partnerships for continuous improvement and adaptation to changing needs. We also build internal capacity so your team can manage and evolve systems independently.
+
+:::
 
 ## Organizational Development Questions
 
@@ -82,6 +86,8 @@ Self-aware individuals make better decisions about how to collaborate with AI sy
 
 We focus on AI that enhances rather than replaces human capabilities. Our approach typically creates more meaningful work by automating routine tasks and freeing capacity for relationship-building, creativity, and strategic thinking. We provide training to help people develop skills that become more valuable alongside AI.
 
+:::div{class="rag-ignore"}
+
 ## Technical Questions
 
 ### What platforms and technologies do you use?
@@ -100,6 +106,10 @@ We provide comprehensive training and documentation so non-technical team member
 
 We design systems to support relevant compliance requirements (GDPR, CCPA, HIPAA, etc.) and provide audit trails and documentation as needed. Privacy-first design and clear data governance help ensure regulatory compliance while maintaining system effectiveness.
 
+:::
+
+:::div{class="rag-ignore"}
+
 ## Investment and Engagement Questions
 
 ### How much does AI implementation and organizational development typically cost?
@@ -117,6 +127,8 @@ Yes, we offer project-based work (3-6 months), ongoing partnerships (12+ months)
 ### What if we want to start small and expand over time?
 
 We encourage starting with pilot projects or specific focus areas to build confidence and demonstrate value before expanding. Gradual implementation allows learning and adaptation while building internal capacity for managing larger transformations.
+
+:::
 
 ### How do we know if this approach is right for our organization?
 
