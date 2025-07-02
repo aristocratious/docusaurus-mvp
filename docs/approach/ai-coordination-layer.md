@@ -54,49 +54,11 @@ The layer supports self-managing organizations by:
 
 ## Technical Architecture Principles
 
-### Consent-Based Intelligence Sharing
-
-- **Explicit permissions**: Organizations control what information is shared and with whom
-- **Purpose limitation**: Data used only for agreed-upon coordination purposes
-- **Revocable access**: Ability to withdraw from coordination arrangements
-- **Transparent processes**: Clear visibility into how coordination operates
-
-### Interoperability and Standards
-
-- **Protocol-based design**: Built on open standards rather than proprietary platforms
-- **API-first architecture**: Easy integration with existing organizational systems
-- **Data portability**: Organizations can migrate between coordination networks
-- **Modular components**: Pick and choose coordination services as needed
-
-### Privacy-Preserving Coordination
-
-- **Federated learning**: AI models improve through coordination without sharing raw data
-- **Differential privacy**: Statistical coordination while protecting individual information
-- **Zero-knowledge proofs**: Verifying capabilities without revealing sensitive details
-- **Local processing**: Coordination intelligence runs within organizational boundaries
+The coordination layer operates on consent-based intelligence sharing where organizations maintain sovereignty over their data while enabling collaborative AI coordination. Built on open protocols rather than proprietary platforms, it preserves privacy through federated learning and local processing while supporting interoperability across networks.
 
 ## Applications in Practice
 
-### Network Weaving
-
-- **Community mapping**: Understanding the landscape of organizations and initiatives
-- **Gap identification**: Finding unmet needs and unused capabilities
-- **Relationship building**: Suggesting beneficial connections and collaborations
-- **Ecosystem health**: Monitoring and supporting overall network resilience
-
-### Resource Coordination
-
-- **Skill and capability sharing**: Matching expertise with needs across organizations
-- **Infrastructure sharing**: Coordinating shared use of resources and facilities
-- **Knowledge commons**: Building shared understanding while respecting ownership
-- **Impact measurement**: Collective assessment of regenerative outcomes
-
-### Collective Intelligence
-
-- **Distributed sensing**: Aggregating insights from multiple organizational perspectives
-- **Pattern recognition**: Identifying trends and opportunities across the network
-- **Scenario planning**: Collaborative exploration of possible futures
-- **Adaptive coordination**: Adjusting coordination patterns as conditions change
+The coordination layer enables network weaving through community mapping and relationship building, resource coordination by matching capabilities across organizations, and collective intelligence through distributed sensing and pattern recognition that supports collaborative decision-making while preserving organizational autonomy.
 
 ## Relationship to Our Approach
 
@@ -118,25 +80,9 @@ Implementation prioritizes:
 - **Distributed benefit**: Value creation is shared among participants
 - **Long-term thinking**: Coordination patterns support sustainable relationships
 
-## Current State and Future Vision
+## Our Role in Development
 
-### Emerging Infrastructure
-
-Elements of coordination layers are emerging through:
-
-- **Open protocols**: Standards for data sharing and interoperability
-- **Distributed platforms**: Networks that enable cross-organizational collaboration
-- **AI agent frameworks**: Systems for autonomous coordination between organizations
-- **Cooperative technologies**: Tools designed for shared ownership and governance
-
-### Our Role in Development
-
-We support organizations in:
-
-- **Coordination readiness**: Preparing for participation in distributed networks
-- **Protocol adoption**: Implementing open standards for interoperability
-- **AI agent development**: Building organizational agents for external coordination
-- **Network participation**: Engaging effectively in regenerative coordination networks
+We help organizations prepare for participation in emerging coordination networks by implementing open standards for interoperability, building AI capabilities for external collaboration, and developing readiness for distributed, regenerative coordination that amplifies collective impact while preserving organizational sovereignty.
 
 ---
 

@@ -35,46 +35,7 @@ Inner-led development isn't just about individual fulfillment—it recognizes th
 
 ## Core Elements of Inner-Led Development
 
-### Purpose Discovery
-
-**What it involves**:
-- Exploring what activities and outcomes give you energy and meaning
-- Identifying patterns across different areas of your life  
-- Understanding how your unique gifts can serve something larger than yourself
-- Clarifying what success means to you personally, not just professionally
-
-### Values Clarification
-
-**The process**:
-- Identifying what principles actually guide your decisions
-- Understanding how your values show up in different contexts
-- Learning to honor your values even when it's challenging
-- Finding work environments and relationships that support your values
-
-**Why it matters**:
-- Values alignment reduces stress and internal conflict
-- Clear values make decision-making easier and more consistent
-- Authentic values expression builds trust and respect from others
-
-### Emotional and Somatic Intelligence
-
-**Emotional development**:
-- Understanding and managing your emotional responses
-- Developing empathy and emotional attunement to others
-- Learning to use emotions as information rather than obstacles
-- Building capacity for difficult conversations and conflict resolution
-
-**Somatic awareness**:
-- Recognizing how your body holds information and wisdom
-- Using physical sensations as guides for decision-making
-- Managing stress and overwhelm through body-based practices
-
-### Systems Awareness
-
-**Understanding context**:
-- Seeing how individual actions affect larger systems
-- Recognizing patterns and dynamics in organizations and communities
-- Understanding your role within broader networks and relationships
+Inner-led development integrates purpose discovery (understanding what gives your life meaning and how your gifts serve something larger), values clarification (identifying principles that guide decisions and finding environments that support authentic expression), emotional and somatic intelligence (using emotions and body wisdom as information for decision-making), and systems awareness (recognizing how individual actions affect larger organizational and community patterns).
 
 ## How Inner-Led Development Supports AI Integration
 
@@ -102,78 +63,15 @@ Inner-led development isn't just about individual fulfillment—it recognizes th
 
 ## Co-Evolution with Technology
 
-### Grounded Technology Integration
-
-Rather than viewing technology as separate from human development, inner-led growth involves **conscious evolution alongside** AI and digital systems:
-
-**Awareness practices**:
-- Noticing how different technologies affect your attention, energy, and decision-making
-- Understanding your personal patterns of technology use and their impacts
-- Developing criteria for which digital tools support vs. compromise your values and goals
-
-**Adaptive capacity**:
-- Building resilience for navigating rapid technological change
-- Maintaining human-centered perspectives amid technology acceleration
-- Developing skills that remain valuable as technological capabilities expand
-
-### Practical Co-Evolution Strategies
-
-**Conscious technology choices**:
-- Selecting AI tools that enhance rather than replace human judgment
-- Using technology to support rather than substitute for relationship building
-- Maintaining practices that develop uniquely human capacities alongside AI usage
-
-**Boundary setting**:
-- Creating space for reflection and deep work without technological distraction
-- Preserving direct human interaction and embodied experience
-- Balancing technological efficiency with developmental practices that require time and attention
-
-**Integration rather than replacement**:
-- Learning to work with AI systems while preserving human agency and creativity
-- Using technology to free capacity for more meaningful and relational work
-- Maintaining connection to values and purpose as technological capabilities evolve
-
-### Nervous System Regulation in the Digital Age
-
-**Modern challenges**:
-- Information overload and constant connectivity
-- Decision fatigue from overwhelming choices and speed
-- Loss of embodied presence through screen-mediated experience
-
-**Inner-led responses**:
-- Developing practices that regulate attention and nervous system arousal
-- Maintaining connection to body awareness and physical environment
-- Creating rhythms that balance technological engagement with rest and reflection
+Inner-led development involves conscious evolution alongside AI by developing awareness of how technology affects attention and decision-making, making conscious choices about which tools enhance rather than replace human judgment, and maintaining practices that preserve uniquely human capacities. This includes creating boundaries for reflection, balancing technological efficiency with developmental practices, and developing nervous system regulation skills to navigate information overload while staying connected to values and embodied presence.
 
 ## Our Approach to Supporting Inner-Led Development
 
-### Individual Coaching and Support
+We integrate individual coaching for purpose discovery and values clarification with organizational culture development that creates psychological safety, values integration practices, and growth-oriented systems that support authentic development serving both personal fulfillment and collective impact.
 
-- **Purpose discovery processes**: Structured exploration of values, gifts, and calling
-- **Values clarification exercises**: Practical tools for identifying and honoring what matters most
-- **Emotional intelligence development**: Skills for managing emotions and relationships effectively
-- **Career and life design**: Strategic planning that integrates personal purpose with professional goals
+## Common Misconceptions
 
-### Organizational Culture Development
-
-- **Creating psychological safety**: Environments where people can explore and express authentically
-- **Values integration practices**: Processes for connecting individual values with organizational mission
-- **Conflict resolution systems**: Approaches that address underlying values and needs
-- **Growth-oriented feedback**: Systems that support development rather than just performance evaluation
-
-## Common Misconceptions and Clarifications
-
-### "This sounds selfish or self-indulgent"
-
-**Reality**: Inner-led development is ultimately about serving something larger than yourself more effectively. When you understand your unique gifts and purpose, you can contribute more authentically and sustainably.
-
-### "We don't have time for this kind of 'soft' development"
-
-**Reality**: Inner-led development improves performance, decision-making, and collaboration—creating time and energy rather than consuming it.
-
-### "This seems too personal for the workplace"
-
-**Reality**: Work is personal—people spend most of their waking hours at work, and organizational health depends on individual health. Creating space for authentic development benefits everyone.
+Inner-led development isn't selfish—it's about serving something larger more effectively through authentic contribution. It improves rather than consumes time by enhancing performance, decision-making, and collaboration. While personal, it recognizes that work takes most of our waking hours and organizational health depends on individual health.
 
 ---
 
