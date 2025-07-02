@@ -75,7 +75,7 @@ We believe AI should augment human capabilities rather than replace human judgme
 - **Cultural Sensitivity**: Navigating the nuanced differences between communities and contexts
 - **Moral Imagination**: Envisioning possibilities for how things could be better
 
-:::div{class="rag-ignore"}
+<div className="rag-ignore">
 
 ## What AI Does Best
 
@@ -95,7 +95,7 @@ We believe AI should augment human capabilities rather than replace human judgme
 - **Workflow Automation**: AI handles routine processes while humans focus on exceptions and innovation
 - **Communication Support**: AI facilitates coordination while humans build relationships
 
-:::
+</div>
 
 ## Practical Implementation
 

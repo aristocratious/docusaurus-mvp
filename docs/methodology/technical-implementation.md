@@ -103,7 +103,7 @@ This direction supports organizations moving toward more collaborative and susta
 - **Retention policies**: Clear timelines for data retention and deletion
 - **Portability**: Your ability to export or migrate your data at any time
 
-:::div{class="rag-ignore"}
+<div className="rag-ignore">
 
 ### Security Implementation
 
@@ -119,11 +119,11 @@ This direction supports organizations moving toward more collaborative and susta
 - **Local processing**: Performing AI operations on your devices rather than cloud servers
 - **Data minimization**: Using only the minimum data necessary for effective AI operation
 
-:::
+</div>
 
 ## Platform and Tool Ecosystem
 
-:::div{class="rag-ignore"}
+<div className="rag-ignore">
 
 ### Core Technology Stack
 
@@ -153,7 +153,7 @@ This direction supports organizations moving toward more collaborative and susta
 - **Backup Systems**: Automated backup and disaster recovery procedures
 - **Compliance Tools**: Audit trail management, reporting systems
 
-:::
+</div>
 
 ## Implementation Process
 
@@ -208,7 +208,7 @@ This direction supports organizations moving toward more collaborative and susta
 - **Technology evolution**: Staying current with AI advances and security best practices
 - **Optimization cycles**: Regular review and refinement of system performance
 
-:::div{class="rag-ignore"}
+<div className="rag-ignore">
 
 ## Compliance and Governance
 
@@ -233,7 +233,7 @@ This direction supports organizations moving toward more collaborative and susta
 - **Audit trails**: Complete logs of system usage and decision-making processes
 - **Compliance reporting**: Automated generation of reports for regulatory or internal purposes
 
-:::
+</div>
 
 ---
 

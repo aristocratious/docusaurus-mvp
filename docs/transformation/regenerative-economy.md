@@ -12,7 +12,7 @@ A regenerative economy actively revitalizes and enhances ecological, social, and
 
 ---
 
-:::div{class="rag-ignore"}
+<div className="rag-ignore">
 
 ## Beyond Sustainability
 
@@ -39,7 +39,7 @@ Sustainability often means maintaining the status quo—but our current systems 
 - Distributes ownership and decision-making capacity
 - Optimizes for long-term flourishing of all stakeholders
 
-:::
+</div>
 
 ## Core Principles
 
@@ -127,7 +127,7 @@ Regenerative data approaches transform data from a resource to be extracted into
 - **Community governance**: Democratic processes for updating and enforcing data use policies
 - **Reputation systems**: Public accountability for organizations that respect or violate data commons principles
 
-:::div{class="rag-ignore"}
+<div className="rag-ignore">
 
 ## Economic Transformation Patterns
 
@@ -161,7 +161,7 @@ Regenerative organizations measure success through:
 - **Community land trusts**: Local communities own land for long-term benefit
 - **Open source projects**: Collective ownership of knowledge and tools
 
-:::
+</div>
 
 ## AI-Assisted Regenerative Organizations
 
@@ -190,7 +190,7 @@ AI implementations must avoid:
 - **Technological solutionism**: Assuming technology alone can solve complex problems
 - **Democratic deficit**: Removing human agency from important decisions
 
-:::div{class="rag-ignore"}
+<div className="rag-ignore">
 
 ## Current Examples and Emerging Patterns
 
@@ -215,9 +215,9 @@ AI implementations must avoid:
 - **Cooperative banks**: Financial institutions owned by their members
 - **Gift economies**: Systems based on abundance and mutual aid
 
-:::
+</div>
 
-:::div{class="rag-ignore"}
+<div className="rag-ignore">
 
 ## Transition Pathways
 
@@ -242,7 +242,7 @@ AI implementations must avoid:
 - **Cultural narrative**: Shifting stories about business and technology
 - **Movement building**: Connecting isolated initiatives into coherent movements
 
-:::
+</div>
 
 ---
 

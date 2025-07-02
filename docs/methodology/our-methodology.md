@@ -12,7 +12,7 @@ Our methodology integrates AI implementation with organizational development and
 
 ---
 
-:::div{class="rag-ignore"}
+<div className="rag-ignore">
 
 ## Core Methodology Principles
 
@@ -56,7 +56,7 @@ We support:
 - Continuous learning and adaptation based on results
 - Long-term thinking that prioritizes sustainability over speed
 
-:::
+</div>
 
 ## Three-Phase Methodology
 

@@ -30,7 +30,7 @@ Our discovery process helps us understand your organization's unique context, re
 
 ## Phase 1: Organizational Foundation Assessment (Weeks 1-2)
 
-:::div{class="rag-ignore"}
+<div className="rag-ignore">
 
 ### Mission, Values, and Purpose Exploration
 
@@ -84,11 +84,11 @@ Our discovery process helps us understand your organization's unique context, re
 - Survey assessment of satisfaction and engagement
 - Community feedback collection and analysis
 
-:::
+</div>
 
 ## Phase 2: Technical and Operational Assessment (Weeks 2-3)
 
-:::div{class="rag-ignore"}
+<div className="rag-ignore">
 
 ### Current Technology and Process Evaluation
 
@@ -107,7 +107,7 @@ Our discovery process helps us understand your organization's unique context, re
 - Process observation and documentation
 - Staff interviews about daily workflows and pain points
 
-:::
+</div>
 
 ### AI Readiness and Opportunity Assessment
 
