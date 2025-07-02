@@ -103,6 +103,8 @@ We design and implement intelligent automation systems that handle routine tasks
 - **API connections**: Seamless data flow between different tools and platforms
 - **Custom development**: Build specific solutions when off-the-shelf tools don't meet needs
 
+<div className="rag-ignore">
+
 ## Technical Capabilities
 
 ### Automation Platforms
@@ -126,6 +128,10 @@ We design and implement intelligent automation systems that handle routine tasks
 - **Audit trails**: Records of automated actions for transparency
 - **Performance monitoring**: Tracking of automation effectiveness
 
+</div>
+
+<div className="rag-ignore">
+
 ## Benefits by Organization Type
 
 ### Cooperatives and Member Organizations
@@ -148,6 +154,10 @@ We design and implement intelligent automation systems that handle routine tasks
 - Administrative efficiency and compliance reporting
 - Learning enhancement and progress monitoring
 
+</div>
+
+<div className="rag-ignore">
+
 ## Implementation Timeline and Investment
 
 ### Quick Implementation (4-6 weeks)
@@ -161,6 +171,8 @@ We design and implement intelligent automation systems that handle routine tasks
 ### Ongoing Optimization (Continuous)
 - **Focus**: Regular refinement and expansion of automated systems
 - **Examples**: Performance optimization, new automation opportunities
+
+</div>
 
 ---
 

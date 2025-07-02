@@ -113,6 +113,8 @@ Purpose alignment helps people develop these uniquely human capacities while fin
 - **Values-based evaluation**: Assessment approaches that honor authentic contribution alongside measurable outcomes
 - **Growth-oriented development**: Individual development planning that serves both personal evolution and organizational needs
 
+<div className="rag-ignore">
+
 ## Integration with AI and Technology
 
 ### AI-Assisted Self-Discovery
@@ -133,6 +135,8 @@ Purpose alignment helps people develop these uniquely human capacities while fin
 - **Human-AI collaboration skills**: Learning to work with AI in ways that preserve and enhance human agency
 - **Uniquely human capacity development**: Strengthening capabilities that become more valuable as AI spreads
 - **Future of work preparation**: Developing resilience and adaptability for continued technological change
+
+</div>
 
 ## Common Purpose Alignment Challenges
 
@@ -168,6 +172,8 @@ Purpose alignment helps people develop these uniquely human capacities while fin
 
 ---
 
+<div className="rag-ignore">
+
 ## Investment and Engagement Options
 
 ### Individual Purpose Discovery
@@ -181,6 +187,8 @@ Purpose alignment helps people develop these uniquely human capacities while fin
 
 ### Organizational Purpose Integration
 **Duration**: 6-12 months | **Best for**: Organizations wanting to create cultures that support individual purpose expression
+
+</div>
 
 ---
 

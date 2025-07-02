@@ -118,6 +118,8 @@ This section outlines common AI use cases and implementation patterns we observe
 - Add participation analysis and engagement improvement recommendations
 - Maintain human leadership in democratic process design and facilitation
 
+<div className="rag-ignore">
+
 ## Implementation Patterns by Organization Type
 
 ### Cooperatives and Member Organizations
@@ -155,6 +157,8 @@ This section outlines common AI use cases and implementation patterns we observe
 - **Phase 1**: Communication and coordination automation
 - **Phase 2**: Community matching and engagement tools
 - **Phase 3**: Collective decision-making and action support
+
+</div>
 
 ---
 

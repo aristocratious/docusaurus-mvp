@@ -91,7 +91,7 @@ const config = {
         sitemap: {
           changefreq: 'hourly',
           priority: 0.7,
-          ignorePatterns: ['/tags/**'],
+          ignorePatterns: ['/tags/**', '/es/**'],
           filename: 'sitemap.xml',
         },
       }),

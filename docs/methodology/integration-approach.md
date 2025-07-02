@@ -118,6 +118,8 @@ Our integration approach focuses on AI systems that work with your existing tool
 - **Pattern recognition**: AI identification of trends and issues before they become problems
 - **Performance optimization suggestions**: AI recommendations for improving individual and team effectiveness
 
+<div className="rag-ignore">
+
 ## Integration Timeline
 
 ### Phase 1: Foundation Integration (Weeks 1-4)
@@ -140,6 +142,10 @@ Our integration approach focuses on AI systems that work with your existing tool
 - **Innovation and experimentation support**: Technology that enables new approaches to organizational challenges
 - **Measurement and optimization**: Assessment and refinement of integrated systems
 
+</div>
+
+<div className="rag-ignore">
+
 ## Success Measurement
 
 ### Integration Success Indicators
@@ -155,6 +161,8 @@ Our integration approach focuses on AI systems that work with your existing tool
 - **User experience feedback**: Systematic collection of input from people using integrated systems
 - **Impact measurement**: Tracking whether integration is contributing to mission and values achievement
 - **Continuous improvement**: Regular refinement and optimization based on usage patterns and feedback
+
+</div>
 
 ---
 

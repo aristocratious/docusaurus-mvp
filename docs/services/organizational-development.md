@@ -46,6 +46,8 @@ We support organizations in evolving beyond traditional hierarchical models towa
 - Desired governance and authority distribution
 - Cultural qualities that support mission achievement
 
+<div className="rag-ignore">
+
 ### Evolutionary Development Path
 
 **Phase 1: Foundation Building**
@@ -67,6 +69,8 @@ We support organizations in evolving beyond traditional hierarchical models towa
 - Integration of self-managing principles
 - Mature governance and coordination systems
 - Organizational resilience and adaptability
+
+</div>
 
 ## Core Development Areas
 
@@ -149,6 +153,8 @@ We support organizations in evolving beyond traditional hierarchical models towa
 - Innovation capacity for educational improvement
 - Community integration with institutional mission
 
+<div className="rag-ignore">
+
 ## Change Management and Transition Support
 
 ### Managing Resistance and Concerns
@@ -163,6 +169,10 @@ We support organizations in evolving beyond traditional hierarchical models towa
 - **Communication enhancement**: Skills for authentic expression and empathetic listening
 - **Systems thinking**: Understanding how individual actions affect organizational patterns
 
+</div>
+
+<div className="rag-ignore">
+
 ## Timeline and Investment
 
 ### Assessment and Planning (4-6 weeks)
@@ -176,6 +186,8 @@ We support organizations in evolving beyond traditional hierarchical models towa
 
 ### Integration and Maturation (12+ months)
 **Focus**: Embodying new organizational model and continuous improvement
+
+</div>
 
 ---
 

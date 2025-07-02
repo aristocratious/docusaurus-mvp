@@ -77,6 +77,8 @@ We help purpose-driven organizations develop and implement AI strategies that al
 - Present data in ways that support human understanding
 - Build systems that preserve individual privacy
 
+<div className="rag-ignore">
+
 ## Technical Capabilities
 
 ### Platform Expertise
@@ -97,6 +99,10 @@ We help purpose-driven organizations develop and implement AI strategies that al
 **Access Control**: Clear policies about data and AI capabilities access
 **Transparency**: Explainable AI that shows how decisions are made
 **Audit Trails**: Records of AI system usage and decision-making
+
+</div>
+
+<div className="rag-ignore">
 
 ## Implementation Process
 
@@ -130,6 +136,8 @@ We help purpose-driven organizations develop and implement AI strategies that al
 **Strategic Updates**: Assessment of new opportunities
 **Continuous Learning**: Staying current with AI advances
 
+</div>
+
 ## Success Metrics and Evaluation
 
 ### Mission Alignment Indicators
@@ -148,6 +156,8 @@ We help purpose-driven organizations develop and implement AI strategies that al
 
 ---
 
+<div className="rag-ignore">
+
 ## Investment and Engagement Options
 
 ### Strategy Consulting
@@ -161,6 +171,8 @@ We help purpose-driven organizations develop and implement AI strategies that al
 
 ### Ongoing Partnership
 **Duration**: 12+ months | **Best for**: Organizations wanting sustained technology support
+
+</div>
 
 ---
 
